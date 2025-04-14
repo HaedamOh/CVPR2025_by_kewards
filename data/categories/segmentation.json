@@ -1,0 +1,1555 @@
+[
+  {
+    "title": "M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation",
+    "authors": [
+      "Zixuan Chen",
+      "Jiaxin Li",
+      "Junxuan Liang",
+      "Liming Tan",
+      "Yejie Guo",
+      "Cewu Lu",
+      "Yonglu Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "DSV-LFS: Unifying LLM-Driven Semantic Cues with Visual Features for Robust Few-Shot Segmentation",
+    "authors": [
+      "Amin Karimi",
+      "Charalambos Poullis"
+    ],
+    "url": null
+  },
+  {
+    "title": "KMD: Koopman Multi-modality Decomposition for Generalized Brain Tumor Segmentation under Incomplete Modalities",
+    "authors": [
+      "Tianyi Liu",
+      "Haochuan Jiang",
+      "Kaizhu Huang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Golden Cudgel Network for Real-Time Semantic Segmentation",
+    "authors": [
+      "Guoyu Yang",
+      "Yuan Wang",
+      "Daming Shi",
+      "Yanzhong Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation",
+    "authors": [
+      "Lang Lin",
+      "Xueyang Yu",
+      "Ziqi Pang",
+      "Yu-Xiong Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation",
+    "authors": [
+      "Markus Karmann",
+      "Onay Urfalioglu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Segment This Thing: Foveated Tokenization for Efficient Point-Prompted Segmentation",
+    "authors": [
+      "Tanner Schmidt",
+      "Richard Newcombe"
+    ],
+    "url": null
+  },
+  {
+    "title": "Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting",
+    "authors": [
+      "Runsong Zhu",
+      "Shi Qiu",
+      "ZHENGZHE LIU",
+      "Ka-Hei Hui",
+      "Qianyi Wu",
+      "Pheng-Ann Heng",
+      "Chi-Wing Fu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Boosting the Dual-Stream Architecture in Ultra-High Resolution Segmentation with Resolution-Biased Uncertainty Estimation",
+    "authors": [
+      "Rong Qin",
+      "Xingyu Liu",
+      "Jinglei Shi",
+      "Liang Lin",
+      "Jufeng Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging",
+    "authors": [
+      "Yijie Tang",
+      "Jiazhao Zhang",
+      "Yuqing Lan",
+      "Yulan Guo",
+      "Dezun Dong",
+      "Chenyang Zhu",
+      "Kai Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Incomplete Multi-modal Brain Tumor Segmentation via Learnable Sorting State Space Model",
+    "authors": [
+      "Zheyu Zhang",
+      "Yayuan Lu",
+      "Feipeng Ma",
+      "Yueyi Zhang",
+      "Huanjing Yue",
+      "Xiaoyan Sun"
+    ],
+    "url": null
+  },
+  {
+    "title": "Generative Map Priors for Collaborative BEV Semantic Segmentation",
+    "authors": [
+      "Jiahui Fu",
+      "Yue Gong",
+      "Luting Wang",
+      "Shifeng Zhang",
+      "Xu Zhou",
+      "Si Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Revisiting Audio-Visual Segmentation with Vision-Centric Transformer",
+    "authors": [
+      "Shaofei Huang",
+      "Rui Ling",
+      "Tianrui Hui",
+      "Hongyu Li",
+      "Xu Zhou",
+      "Shifeng Zhang",
+      "Si Liu",
+      "Richang Hong",
+      "Meng Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation",
+    "authors": [
+      "Kai Fang",
+      "Anqi Zhang",
+      "Guangyu Gao",
+      "Jianbo Jiao",
+      "Chi Harold Liu",
+      "Yunchao Wei"
+    ],
+    "url": null
+  },
+  {
+    "title": "NTClick: Achieving Precise Interactive Segmentation With Noise-tolerant Clicks",
+    "authors": [
+      "Chenyi Zhang",
+      "Ting Liu",
+      "Xiaochao Qu",
+      "Luoqi Liu",
+      "Yao Zhao",
+      "Yunchao Wei"
+    ],
+    "url": null
+  },
+  {
+    "title": "Relation3D : Enhancing Relation Modeling for Point Cloud Instance Segmentation",
+    "authors": [
+      "Edward LOO",
+      "Jiacheng Deng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather",
+    "authors": [
+      "Longyu Yang",
+      "Ping Hu",
+      "Shangbo Yuan",
+      "Lu Zhang",
+      "Jun Liu",
+      "Heng Tao Shen",
+      "Xiaofeng Zhu"
+    ],
+    "url": null
+  },
+  {
+    "title": "$\\beta$-FFT: Nonlinear Interpolation and Differentiated Training Strategies for Semi-Supervised Medical Image Segmentation",
+    "authors": [
+      "Ming Hu",
+      "Jianfu Yin",
+      "Zhuangzhuang Ma",
+      "Jianheng Ma",
+      "Feiyu Zhu",
+      "Bingbing Wu",
+      "Ya Wen",
+      "Meng Wu",
+      "C Hu",
+      "Bingliang Hu",
+      "Quan Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images",
+    "authors": [
+      "Jie Mei",
+      "Chenyu Lin",
+      "Yu Qiu",
+      "Yaonan Wang",
+      "Hui Zhang",
+      "Ziyang Wang",
+      "Dong Dai"
+    ],
+    "url": null
+  },
+  {
+    "title": "COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting",
+    "authors": [
+      "Jiaxin Zhang",
+      "Junjun Jiang",
+      "Youyu Chen",
+      "Kui Jiang",
+      "Xianming Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety",
+    "authors": [
+      "Andrei Dumitriu",
+      "Florin Tatui",
+      "Florin Miron",
+      "Aakash Ralhan",
+      "Radu Tudor Ionescu",
+      "Radu Timofte"
+    ],
+    "url": null
+  },
+  {
+    "title": "Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation",
+    "authors": [
+      "Reza Qorbani",
+      "Gianluca Villani",
+      "Theodoros Panagiotakopoulos",
+      "Marc Botet Colomer",
+      "Linus H\u00e4renstam-Nielsen",
+      "Mattia Segu",
+      "Pier Luigi Dovesi",
+      "Jussi Karlgren",
+      "Daniel Cremers",
+      "Federico Tombari",
+      "Matteo Poggi"
+    ],
+    "url": null
+  },
+  {
+    "title": "Exploring Scene Affinity for Semi-Supervised LiDAR Semantic Segmentation",
+    "authors": [
+      "Chuandong Liu",
+      "Xingxing Weng",
+      "Shuguo Jiang",
+      "Pengcheng Li",
+      "Lei Yu",
+      "Gui-Song Xia"
+    ],
+    "url": null
+  },
+  {
+    "title": "Exploring Simple Open-Vocabulary Semantic Segmentation",
+    "authors": [
+      "Zihang Lai"
+    ],
+    "url": null
+  },
+  {
+    "title": "DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation",
+    "authors": [
+      "Ziyu Zhao",
+      "Xiaoguang Li",
+      "Lingjia Shi",
+      "Nasrin Imanpour",
+      "Song Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Boost the Inference with Co-training: A Depth-guided Mutual Learning Framework for Semi-supervised Medical Polyp Segmentation",
+    "authors": [
+      "Yuxin Li",
+      "Zihao Zhu",
+      "Yuxiang Zhang",
+      "Yifan Chen",
+      "Zhibin Yu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model",
+    "authors": [
+      "Zhaochong An",
+      "Guolei Sun",
+      "Yun Liu",
+      "Runjia Li",
+      "Junlin Han",
+      "Ender Konukoglu",
+      "Serge Belongie"
+    ],
+    "url": null
+  },
+  {
+    "title": "SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images",
+    "authors": [
+      "Kaiyu Li",
+      "Ruixun Liu",
+      "Xiangyong Cao",
+      "Xueru Bai",
+      "Feng Zhou",
+      "Deyu Meng",
+      "Wang Zhi"
+    ],
+    "url": null
+  },
+  {
+    "title": "Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Zhiwei Yang",
+      "Yucong Meng",
+      "Kexue Fu",
+      "feilong tang",
+      "Shuo Wang",
+      "Zhijian Song"
+    ],
+    "url": null
+  },
+  {
+    "title": "Rethinking Decoder Design: Improving Biomarker Segmentation Using Depth-to-Space Restoration and Residual Linear Attention",
+    "authors": [
+      "Saad Wazir",
+      "Daeyoung Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Text Augmented Correlation Transformer For Few-shot Classification & Segmentation",
+    "authors": [
+      "Srinivasa Rao Nandam",
+      "Sara Atito",
+      "Zhenhua Feng",
+      "Josef Kittler",
+      "Muhammad Awais"
+    ],
+    "url": null
+  },
+  {
+    "title": "TSAM: Temporal SAM Augmented with Multimodal Prompts for Referring Audio-Visual Segmentation",
+    "authors": [
+      "Abduljalil Radman",
+      "Jorma Laaksonen"
+    ],
+    "url": null
+  },
+  {
+    "title": "A Dataset for Semantic Segmentation in the Presence of Unknowns",
+    "authors": [
+      "Zakaria Laskar",
+      "Tomas Vojir",
+      "Matej Grcic",
+      "Iaroslav Melekhov",
+      "Shankar Gangisetty",
+      "Juho Kannala",
+      "Jiri Matas",
+      "Giorgos Tolias",
+      "C.V. Jawahar"
+    ],
+    "url": null
+  },
+  {
+    "title": "Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation",
+    "authors": [
+      "Ting Liu",
+      "Siyuan Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "RSVOS-SAM: High-Quality Interactive Segmentation for Remote Sensing Video Object",
+    "authors": [
+      "Zhe Shan",
+      "Yang Liu",
+      "Lei Zhou",
+      "Cheng Yan",
+      "Heng Wang",
+      "Xia Xie"
+    ],
+    "url": null
+  },
+  {
+    "title": "Convex Combination Star Shape Prior for Data-driven Image Semantic Segmentation",
+    "authors": [
+      "Xinyu Zhao",
+      "Jun Xie",
+      "Shengzhe Chen",
+      "Jun Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "EffiDec3D: An Optimized Decoder for High-Performance and Efficient 3D Medical Image Segmentation",
+    "authors": [
+      "Md Mostafijur Rahman",
+      "Radu Marculescu"
+    ],
+    "url": null
+  },
+  {
+    "title": "vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation",
+    "authors": [
+      "Bastian Wittmann",
+      "Yannick Wattenberg",
+      "Tamaz Amiranashvili",
+      "Suprosanna Shit",
+      "Bjoern Menze"
+    ],
+    "url": null
+  },
+  {
+    "title": "VCR: Learning Appearance-Invariant Representation for Open-World Instance Segmentation",
+    "authors": [
+      "Chang-Bin Zhang",
+      "Jinhong Ni",
+      "Yujie Zhong",
+      "Kai Han"
+    ],
+    "url": null
+  },
+  {
+    "title": "Using diffusion priors for video amodal segmentation",
+    "authors": [
+      "Kaihua Chen",
+      "Deva Ramanan",
+      "Tarasha Khurana"
+    ],
+    "url": null
+  },
+  {
+    "title": "Revisiting MAE pre-training for 3D medical image segmentation",
+    "authors": [
+      "Tassilo Wald",
+      "Constantin Ulrich",
+      "Stanislav Lukyanenko",
+      "Andrei Goncharov",
+      "Alberto Paderno",
+      "Maximilian Miller",
+      "Leander Maerkisch",
+      "Paul F Jaeger",
+      "Klaus Maier-Hein"
+    ],
+    "url": null
+  },
+  {
+    "title": "3D-AVS: LiDAR-based 3D Auto-Vocabulary Segmentation",
+    "authors": [
+      "Weijie Wei",
+      "Osman \u00dclger",
+      "Fatemeh Karimi Nejadasl",
+      "Theo Gevers",
+      "Martin R. Oswald"
+    ],
+    "url": null
+  },
+  {
+    "title": "UNICL-SAM: Uncertainty-Driven In-Context Segmentation with Part Prototype Discovery",
+    "authors": [
+      "Dianmo Sheng",
+      "Dongdong Chen",
+      "Zhentao Tan",
+      "Qiankun Liu",
+      "Qi Chu",
+      "Tao Gong",
+      "Bin Liu",
+      "Jing Han",
+      "Wenbin Tu",
+      "Shengwei Xu",
+      "Nenghai Yu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Continual Universal Segmentation",
+    "authors": [
+      "Zihan Lin",
+      "Zilei Wang",
+      "Xu Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "SAM2Object: Consolidating View Consistency via SAM2 for Zero-Shot 3D Instance Segmentation",
+    "authors": [
+      "Jihuai Zhao",
+      "Junbao Zhuo",
+      "Jiansheng Chen",
+      "Huimin Ma"
+    ],
+    "url": null
+  },
+  {
+    "title": "Improving Semi-Supervised Semantic Segmentation with Sliced-Wasserstein Feature Alignment and Uniformity",
+    "authors": [
+      "Chen Yi Lu",
+      "Kasra Derakhshandeh",
+      "Somali Chaterji"
+    ],
+    "url": null
+  },
+  {
+    "title": "SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation",
+    "authors": [
+      "Feng Yu",
+      "Jiacheng Cao",
+      "Li Liu",
+      "Minghua Jiang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Decoupled Motion Expression Video Segmentation",
+    "authors": [
+      "Hao Fang",
+      "Runmin Cong",
+      "Xiankai Lu",
+      "Xiaofei Zhou",
+      "Sam Kwong",
+      "Wei Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving",
+    "authors": [
+      "Alexey Nekrasov",
+      "Malcolm Burdorf",
+      "Stewart Worrall",
+      "Bastian Leibe",
+      "Julie Stephany Berrio Perez"
+    ],
+    "url": null
+  },
+  {
+    "title": "The Devil is in Temporal Token: High Quality Video Reasoning Segmentation",
+    "authors": [
+      "Sitong Gong",
+      "Yunzhi Zhuge",
+      "Lu Zhang",
+      "Zongxin Yang",
+      "Pingping Zhang",
+      "Huchuan Lu"
+    ],
+    "url": null
+  },
+  {
+    "title": "WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels",
+    "authors": [
+      "Hyeokjun Kweon",
+      "Kuk-Jin Yoon"
+    ],
+    "url": null
+  },
+  {
+    "title": "Unified Medical Lesion Segmentation via Self-referring Indicator",
+    "authors": [
+      "Shijie Chang",
+      "Xiaoqi Zhao",
+      "Lihe Zhang",
+      "Tiancheng Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation",
+    "authors": [
+      "Aishik Konwer",
+      "Zhijian Yang",
+      "Erhan Bas",
+      "Cao Xiao",
+      "Prateek Prasanna",
+      "Parminder Bhatia",
+      "Taha Kass-Hout"
+    ],
+    "url": null
+  },
+  {
+    "title": "Scene-Centric Unsupervised Panoptic Segmentation",
+    "authors": [
+      "Oliver Hahn",
+      "Christoph Reich",
+      "Nikita Araslanov",
+      "Daniel Cremers",
+      "Christian Rupprecht",
+      "Stefan Roth"
+    ],
+    "url": null
+  },
+  {
+    "title": "Weakly Supervised Semantic Segmentation via Progressive Confidence Region Expansion",
+    "authors": [
+      "Xiangfeng Xu",
+      "Pinyi Zhang",
+      "Wenxuan Huang",
+      "Yunhang Shen",
+      "Haosheng Chen",
+      "Jingzhong Lin",
+      "Wei Li",
+      "Gaoqi He",
+      "Jiao Xie",
+      "Shaohui Lin"
+    ],
+    "url": null
+  },
+  {
+    "title": "Dual Semantic Guidence for Open Vocabulary Semantic Segmentation",
+    "authors": [
+      "ZhengYang Wang",
+      "Tingliang Feng",
+      "Fan Lyu",
+      "Fanhua Shang",
+      "Wei Feng",
+      "Liang Wan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Training-free Video Semantic Segmentation based on Diffusion Models",
+    "authors": [
+      "Qian Wang",
+      "Abdelrahman Eldesokey",
+      "Mohit Mendiratta",
+      "Fangneng Zhan",
+      "Adam Kortylewski",
+      "Christian Theobalt",
+      "Peter Wonka"
+    ],
+    "url": null
+  },
+  {
+    "title": "Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation",
+    "authors": [
+      "Qingchen Tang",
+      "Lei Fan",
+      "Maurice Pagnucco",
+      "Yang Song"
+    ],
+    "url": null
+  },
+  {
+    "title": "The Devil is in Low-Level Features for Cross-Domain Few-Shot Segmentation",
+    "authors": [
+      "Yuhan Liu",
+      "Yixiong Zou",
+      "Yuhua Li",
+      "Ruixuan Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "D^3CTTA: Domain-Dependent Decorrelation for Continual Test-Time Adaption of 3D LiDAR Segmentation",
+    "authors": [
+      "Jichun Zhao",
+      "Haiyong Jiang",
+      "Haoxuan Song",
+      "Jun Xiao",
+      "Dong Gong"
+    ],
+    "url": null
+  },
+  {
+    "title": "Insightful Instance Features for 3D Instance Segmentation",
+    "authors": [
+      "Wonseok Roh",
+      "Hwanhee Jung",
+      "Giljoo Nam",
+      "Dong In Lee",
+      "Hyeongcheol Park",
+      "Sang Ho Yoon",
+      "Jungseock Joo",
+      "Sangpil Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "3D Dental Model Segmentation with Geometrical Boundary Preserving",
+    "authors": [
+      "Shufan Xi",
+      "Zexian Liu",
+      "Junlin Chang",
+      "Hongyu Wu",
+      "Xiaogang Wang",
+      "Aimin Hao"
+    ],
+    "url": null
+  },
+  {
+    "title": "DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning",
+    "authors": [
+      "Xiao-Hui Li",
+      "Fei Yin",
+      "Cheng-Lin Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation",
+    "authors": [
+      "Hritam Basak",
+      "Zhaozheng Yin"
+    ],
+    "url": null
+  },
+  {
+    "title": "nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark",
+    "authors": [
+      "Yanfeng Zhou",
+      "Lingrui Li",
+      "Le Lu",
+      "Minfeng Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging",
+    "authors": [
+      "Maximilian Rokuss",
+      "Yannick Kirchhoff",
+      "Seval Akbal",
+      "Balint Kovacs",
+      "Saikat Roy",
+      "Constantin Ulrich",
+      "Tassilo Wald",
+      "Lukas T. Rotkopf",
+      "Heinz-Peter Schlemmer",
+      "Klaus Maier-Hein"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation",
+    "authors": [
+      "Yongkang Li",
+      "Tianheng Cheng",
+      "Bin Feng",
+      "Wenyu Liu",
+      "Xinggang Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation",
+    "authors": [
+      "Hao Zhu",
+      "Yan Zhu",
+      "Jiayu Xiao",
+      "Tianxiang Xiao",
+      "Yike Ma",
+      "Yucheng Zhang",
+      "Feng Dai"
+    ],
+    "url": null
+  },
+  {
+    "title": "Generative Hard Example Augmentation for Semantic Point Cloud Segmentation",
+    "authors": [
+      "Qi Zhang",
+      "Jibin Peng",
+      "Zhao Huang",
+      "Wei Feng",
+      "Di Lin"
+    ],
+    "url": null
+  },
+  {
+    "title": "Fine-Grained Image-Text Correspondence with Cost Aggregation for Open-Vocabulary Part Segmentation",
+    "authors": [
+      "Jiho Choi",
+      "Seonho Lee",
+      "Minhyun Lee",
+      "Seungho Lee",
+      "Hyunjung Shim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Universal Domain Adaptation for Semantic Segmentation",
+    "authors": [
+      "Seun-An Choe",
+      "Keon Hee Park",
+      "Jinwoo Choi",
+      "Gyeong-Moon Park"
+    ],
+    "url": null
+  },
+  {
+    "title": "Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models",
+    "authors": [
+      "Yankai Jiang",
+      "Peng Zhang",
+      "Donglin Yang",
+      "Yuan Tian",
+      "Hai Lin",
+      "Xiaosong Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "FFR:Frequecny Feature Rectification for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Ziqian Yang",
+      "Xinqiao Zhao",
+      "Xiaolei Wang",
+      "Quan Zhang",
+      "Jimin Xiao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation",
+    "authors": [
+      "Fangyun Wei",
+      "Jinjing Zhao",
+      "Kun Yan",
+      "Chang Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Effective SAM Combination for Open-Vocabulary Semantic Segmentation",
+    "authors": [
+      "Minhyeok Lee",
+      "Suhwan Cho",
+      "Jungho Lee",
+      "Sunghun Yang",
+      "Heeseung Choi",
+      "Ig-Jae Kim",
+      "Sangyoun Lee"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Efficient Foundation Model for Zero-shot Amodal Segmentation",
+    "authors": [
+      "Zhaochen Liu",
+      "Limeng Qiao",
+      "Xiangxiang Chu",
+      "Lin Ma",
+      "Tingting Jiang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment",
+    "authors": [
+      "Chen Liu",
+      "Peike Li",
+      "Liying Yang",
+      "Dadong Wang",
+      "Lincheng Li",
+      "Xin Yu"
+    ],
+    "url": null
+  },
+  {
+    "title": "The Impact Label Noise and Choice of Threshold has on Cross-Entropy and Soft-Dice in Image Segmentation",
+    "authors": [
+      "Marcus Nordstr\u00f6m",
+      "Atsuto Maki",
+      "Henrik Hult"
+    ],
+    "url": null
+  },
+  {
+    "title": "Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation",
+    "authors": [
+      "TANUJ SUR",
+      "Samrat Mukherjee",
+      "Kaizer Rahaman",
+      "Subhasis Chaudhuri",
+      "Muhammad Haris Khan",
+      "Biplab Banerjee"
+    ],
+    "url": null
+  },
+  {
+    "title": "Semantic and Sequential Alignment for Referring Video Object Segmentation",
+    "authors": [
+      "Feiyu Pan",
+      "Hao Fang",
+      "Fangkai Li",
+      "Yanyu Xu",
+      "Yawei Li",
+      "Luca Benini",
+      "Xiankai Lu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Dual-Agent Optimization framework for Cross-Domain Few-Shot Segmentation",
+    "authors": [
+      "Zhaoyang Li",
+      "Yuan Wang",
+      "Wangkai Li",
+      "Tianzhu Zhang",
+      "Xiang Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics",
+    "authors": [
+      "Chen Liu",
+      "Liying Yang",
+      "Peike Li",
+      "Dadong Wang",
+      "Lincheng Li",
+      "Xin Yu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation",
+    "authors": [
+      "Zelin Peng",
+      "Zhengqin Xu",
+      "Zhilin Zeng",
+      "Yu Huang",
+      "Yaoming Wang",
+      "Wei Shen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space",
+    "authors": [
+      "Zelin Peng",
+      "Zhengqin Xu",
+      "Zhilin Zeng",
+      "Changsong Wen",
+      "Yu Huang",
+      "Menglin Yang",
+      "feilong tang",
+      "Wei Shen"
+    ],
+    "url": null
+  },
+  {
+    "title": "DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation",
+    "authors": [
+      "Maregu Assefa",
+      "Muzammal Naseer",
+      "IYYAKUTTI IYAPPAN GANAPATHI",
+      "Syed Sadaf Ali",
+      "Mohamed L Seghier",
+      "Naoufel Werghi"
+    ],
+    "url": null
+  },
+  {
+    "title": "HyperSeg: Hybrid Segmentation Assistant with Fine-grained Visual Perceiver",
+    "authors": [
+      "Cong Wei",
+      "Haoxian Tan",
+      "Yujie Zhong",
+      "Yong Liu",
+      "Jie Hu",
+      "Dengjie Li",
+      "Zheng Zhao",
+      "Yujiu Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "CSC-PA: Cross-image Semantic Correlation via Prototype Attentions for Single-network Semi-supervised Breast Tumor Segmentation",
+    "authors": [
+      "Zhenhui Ding",
+      "Guilian Chen",
+      "Qin Zhang",
+      "Huisi Wu",
+      "Jing Qin"
+    ],
+    "url": null
+  },
+  {
+    "title": "Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation",
+    "authors": [
+      "Chanyoung Kim",
+      "Dayun Ju",
+      "Woojung Han",
+      "Ming-Hsuan Yang",
+      "Seong Jae Hwang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking",
+    "authors": [
+      "Phuc Nguyen",
+      "Minh Luu",
+      "Anh Tran",
+      "Cuong Pham",
+      "Khoi Nguyen"
+    ],
+    "url": null
+  },
+  {
+    "title": "EntityErasure: Erasing Entity Cleanly via Amodal Entity Segmentation and Completion",
+    "authors": [
+      "Yixing Zhu",
+      "Qing Zhang",
+      "Yitong Wang",
+      "Yongwei Nie",
+      "Wei-Shi Zheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2\\% Training Cost",
+    "authors": [
+      "Haiyang Mei",
+      "Pengyu Zhang",
+      "Mike Zheng Shou"
+    ],
+    "url": null
+  },
+  {
+    "title": "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation",
+    "authors": [
+      "Silin Cheng",
+      "Yang Liu",
+      "Xinwei He",
+      "Sebastien Ourselin",
+      "Lei Tan",
+      "Gen Luo"
+    ],
+    "url": null
+  },
+  {
+    "title": "Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation",
+    "authors": [
+      "Lexin Fang",
+      "Yunyang Xu",
+      "Xiang Ma",
+      "Xuemei Li",
+      "Caiming Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Exploiting Temporal State Space Sharing for Video Semantic Segmentation",
+    "authors": [
+      "Hesham Syed",
+      "Yun Liu",
+      "Guolei Sun",
+      "Henghui Ding",
+      "Jing Yang",
+      "Ender Konukoglu",
+      "Xue Geng",
+      "Xudong Jiang"
+    ],
+    "url": null
+  },
+  {
+    "title": "HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving",
+    "authors": [
+      "R.D. Lin",
+      "Pengcheng Weng",
+      "Yinqiao Wang",
+      "Han Ding",
+      "Jinsong Han",
+      "Fei Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Jian Wang",
+      "Tianhong Dai",
+      "Bingfeng Zhang",
+      "Siyue Yu",
+      "ENG GEE LIM",
+      "Jimin Xiao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Multi-label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Songsong Duan",
+      "Xi Yang",
+      "Nannan Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "DeNVeR: Deformable Neural Vessel Representations for Unsupervised Video Vessel Segmentation",
+    "authors": [
+      "Chun-Hung Wu",
+      "Shih-Hong Chen",
+      "Chih Yao Hu",
+      "Hsin-Yu Wu",
+      "Kai-Hsin Chen",
+      "Yu-You Chen",
+      "Chih-Hai Su",
+      "Chih-Kuo Lee",
+      "Yu-Lun Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "NightAdapter: Learning a Frequency Adapter for Generalizable Night-time Scene Segmentation",
+    "authors": [
+      "Qi Bi",
+      "Jingjun Yi",
+      "Huimin Huang",
+      "Hao Zheng",
+      "Haolan Zhan",
+      "Yawen Huang",
+      "Yuexiang Li",
+      "Xian Wu",
+      "Yefeng Zheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation",
+    "authors": [
+      "Junha Lee",
+      "Chunghyun Park",
+      "Jaesung Choe",
+      "Yu-Chiang Frank Wang",
+      "Jan Kautz",
+      "Minsu Cho",
+      "Chris Choy"
+    ],
+    "url": null
+  },
+  {
+    "title": "CamPoint: Boosting Point Cloud Segmentation with Virtual Camera",
+    "authors": [
+      "Jianhui Zhang",
+      "Luo Yizhi",
+      "Zicheng Zhang",
+      "Xuecheng Nie",
+      "Bonan Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline",
+    "authors": [
+      "Junlong Cheng",
+      "Bin Fu",
+      "Jin Ye",
+      "Guoan Wang",
+      "Tianbin Li",
+      "Haoyu Wang",
+      "Ruoyu Li",
+      "He Yao",
+      "Chen Junren",
+      "Jingwen Li",
+      "Yanzhou Su",
+      "Min Zhu",
+      "Junjun He"
+    ],
+    "url": null
+  },
+  {
+    "title": "VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging",
+    "authors": [
+      "Yufan He",
+      "Pengfei Guo",
+      "Yucheng Tang",
+      "Andriy Myronenko",
+      "Vishwesh Nath",
+      "Ziyue Xu",
+      "Dong Yang",
+      "Can Zhao",
+      "Benjamin D. Simon",
+      "Mason Belue",
+      "Stephanie Anne Harmon",
+      "Baris Turkbey",
+      "Daguang Xu",
+      "Wenqi Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models",
+    "authors": [
+      "Wentao Qu",
+      "Jing Wang",
+      "Yongshun Gong",
+      "Xiaoshui Huang",
+      "Liang Xiao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation",
+    "authors": [
+      "Jiao Xu",
+      "Xin Chen",
+      "Lihe Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Rethinking Query-based Transformer for Continual Image Segmentation",
+    "authors": [
+      "Yuchen Zhu",
+      "Cheng Shi",
+      "Dingyou Wang",
+      "Jiajin Tang",
+      "Zhengxuan Wei",
+      "Yu Wu",
+      "Guanbin Li",
+      "Sibei Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Layered motion fusion: Lifting motion segmentation to 3D in egocentric videos",
+    "authors": [
+      "Vadim Tschernezki",
+      "Diane Larlus",
+      "Andrea Vedaldi",
+      "Iro Laina"
+    ],
+    "url": null
+  },
+  {
+    "title": "No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation",
+    "authors": [
+      "Junsung Park",
+      "HwiJeong Lee",
+      "Inha Kang",
+      "Hyunjung Shim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation",
+    "authors": [
+      "Kunpeng Qiu",
+      "Zhiqiang Gao",
+      "Zhiying Zhou",
+      "MINGJIE SUN",
+      "Yongxin Guo"
+    ],
+    "url": null
+  },
+  {
+    "title": "Show and Segment: Universal Medical Image Segmentation via In-Context Learning",
+    "authors": [
+      "Yunhe Gao",
+      "Di Liu",
+      "Zhuowei Li",
+      "Yunsheng Li",
+      "Dongdong Chen",
+      "Mu Zhou",
+      "Dimitris N. Metaxas"
+    ],
+    "url": null
+  },
+  {
+    "title": "ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation",
+    "authors": [
+      "Ali Athar",
+      "Xueqing Deng",
+      "Liang-Chieh Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "LiVOS: Light Video Object Segmentation with Gated Linear Matching",
+    "authors": [
+      "Qin Liu",
+      "Jianfeng Wang",
+      "Zhengyuan Yang",
+      "Linjie Li",
+      "Kevin Lin",
+      "Marc Niethammer",
+      "Lijuan Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Zero-Shot 4D Lidar Panoptic Segmentation",
+    "authors": [
+      "Yushan Zhang",
+      "Aljo\u0161a O\u0161ep",
+      "Laura Leal-Taixe",
+      "Tim Meinhardt"
+    ],
+    "url": null
+  },
+  {
+    "title": "Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation",
+    "authors": [
+      "Xingguo Lv",
+      "Xingbo Dong",
+      "Liwen Wang",
+      "Jiewen Yang",
+      "Lei Zhao",
+      "Bin Pu",
+      "Zhe Jin",
+      "Xuejun Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation",
+    "authors": [
+      "Lanyun Zhu",
+      "Tianrun Chen",
+      "Qianxiong Xu",
+      "Xuanyi Liu",
+      "Deyi Ji",
+      "Haiyang Wu",
+      "De Soh Soh",
+      "Jun Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation",
+    "authors": [
+      "Bo-Wen Yin",
+      "Jiao-Long Cao",
+      "Ming-Ming Cheng",
+      "Qibin Hou"
+    ],
+    "url": null
+  },
+  {
+    "title": "Foveated Instance Segmentation",
+    "authors": [
+      "Hongyi Zeng",
+      "Wenxuan Liu",
+      "Tianhua Xia",
+      "Jinhui Chen",
+      "Ziyun Li",
+      "Sai Qian Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Audio-Visual Instance Segmentation",
+    "authors": [
+      "Ruohao Guo",
+      "Xianghua Ying",
+      "Yaru Chen",
+      "Dantong Niu",
+      "Guangyao Li",
+      "Liao Qu",
+      "Yanyu Qi",
+      "Jinxing Zhou",
+      "Bowei Xing",
+      "Wenzhen Yue",
+      "Ji Shi",
+      "Qixun Wang",
+      "Peiliang Zhang",
+      "Buwen Liang"
+    ],
+    "url": null
+  },
+  {
+    "title": "PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding",
+    "authors": [
+      "Hongjia Zhai",
+      "Hai Li",
+      "Zhenzhe Li",
+      "Xiaokun Pan",
+      "Yijia He",
+      "Guofeng Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Advancing Manga Analysis: Comprehensive Segmentation Annotations for the Manga109 Dataset",
+    "authors": [
+      "Minshan XIE",
+      "Jian Lin",
+      "Hanyuan Liu",
+      "Chengze Li",
+      "Tien-Tsin Wong"
+    ],
+    "url": null
+  },
+  {
+    "title": "Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation",
+    "authors": [
+      "Hongmei Yin",
+      "Tingliang Feng",
+      "Fan Lyu",
+      "Fanhua Shang",
+      "Hongying Liu",
+      "Wei Feng",
+      "Liang Wan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Potts Relaxations and Soft Self-labeling for Weakly-supervised Segmentation",
+    "authors": [
+      "Zhongwen Zhang",
+      "Yuri Boykov"
+    ],
+    "url": null
+  },
+  {
+    "title": "SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures",
+    "authors": [
+      "Hui Liu",
+      "Chen Jia",
+      "Fan Shi",
+      "Xu Cheng",
+      "Shengyong Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Annotation Ambiguity Aware Semi-Supervised Medical Image Segmentation",
+    "authors": [
+      "Suruchi Kumari",
+      "Pravendra Singh"
+    ],
+    "url": null
+  },
+  {
+    "title": "LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds",
+    "authors": [
+      "Zihui Zhang",
+      "Weisheng Dai",
+      "Hongtao Wen",
+      "Bo Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mamba as a Bridge: Where VFM Meets VLM for Domain-Generalized Semantic Segmentation",
+    "authors": [
+      "Xin Zhang",
+      "Robby T. Tan"
+    ],
+    "url": null
+  },
+  {
+    "title": "MaSS13K: A Matting-level Semantic Segmentation Benchmark",
+    "authors": [
+      "Chenxi Xie",
+      "Minghan LI",
+      "Hui Zeng",
+      "Jun Luo",
+      "Lei Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis",
+    "authors": [
+      "Weiguang Zhao",
+      "Rui Zhang",
+      "Qiufeng Wang",
+      "Guangliang Cheng",
+      "Kaizhu Huang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation",
+    "authors": [
+      "Jiaxin Cai",
+      "Jingze Su",
+      "Qi Li",
+      "Wenjie Yang",
+      "Shu Wang",
+      "Tiesong Zhao",
+      "Shengfeng He",
+      "Wenxi Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Scaling up Image Segmentation across Data and Tasks",
+    "authors": [
+      "Pei Wang",
+      "Zhaowei Cai",
+      "Hao Yang",
+      "Ashwin Swaminathan",
+      "R. Manmatha",
+      "Stefano Soatto"
+    ],
+    "url": null
+  },
+  {
+    "title": "Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation",
+    "authors": [
+      "Qinghe Ma",
+      "Jian Zhang",
+      "Zekun Li",
+      "Lei Qi",
+      "Qian Yu",
+      "Yinghuan Shi"
+    ],
+    "url": null
+  },
+  {
+    "title": "FisherTune: Fisher-Guided Robust Tuning of Vision Foundation Models for Domain Generalized Segmentation",
+    "authors": [
+      "Dong Zhao",
+      "Jinlong Li",
+      "Shuang Wang",
+      "Mengyao Wu",
+      "Qi Zang",
+      "Nicu Sebe",
+      "Zhun Zhong"
+    ],
+    "url": null
+  },
+  {
+    "title": "PolarNeXt: Rethink Instance Segmentation with Polar Representation",
+    "authors": [
+      "Jiacheng Sun",
+      "Xinghong Zhou",
+      "Yiqiang Wu",
+      "Bin Zhu",
+      "Jiaxuan Lu",
+      "Yu Qin",
+      "Xiaomao Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Sketchy Bounding-box Supervision for 3D Instance Segmentation",
+    "authors": [
+      "qian deng",
+      "Le Hui",
+      "Jin Xie",
+      "Jian Yang"
+    ],
+    "url": null
+  }
+]

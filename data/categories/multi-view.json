@@ -1,0 +1,733 @@
+[
+  {
+    "title": "A Hubness Perspective on Representation Learning for Graph-Based Multi-View Clustering",
+    "authors": [
+      "Zheming Xu",
+      "He Liu",
+      "Congyan Lang",
+      "Tao Wang",
+      "Yidong Li",
+      "Michael C. Kampffmeyer"
+    ],
+    "url": null
+  },
+  {
+    "title": "Leveraging Temporal Cues for Semi-Supervised Multi-View 3D Object Detection",
+    "authors": [
+      "Jinhyung Park",
+      "Navyata Sanghvi",
+      "Hiroki Adachi",
+      "Yoshihisa Shibata",
+      "Shawn Hunt",
+      "Shinya Tanaka",
+      "Hironobu Fujiyioshi",
+      "Kris Kitani"
+    ],
+    "url": null
+  },
+  {
+    "title": "MITracker: Multi-View Integration for Visual Object Tracking",
+    "authors": [
+      "Mengjie Xu",
+      "Yitao Zhu",
+      "Haotian Jiang",
+      "Jiaming Li",
+      "Zhenrong Shen",
+      "Sheng Wang",
+      "Haolin Huang",
+      "Xinyu Wang",
+      "Han Zhang",
+      "Qing Yang",
+      "Qian Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning",
+    "authors": [
+      "yuzhuo dai",
+      "Jiaqi Jin",
+      "Zhibin Dong",
+      "Siwei Wang",
+      "Xinwang Liu",
+      "En Zhu",
+      "Xihong Yang",
+      "Xinbiao Gan",
+      "Yu Feng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Sparse Image Sets Restoration with Multi-View Diffusion Model",
+    "authors": [
+      "Yucheng Mao",
+      "Boyang Wang",
+      "Nilesh Kulkarni",
+      "Jeong Joon Park"
+    ],
+    "url": null
+  },
+  {
+    "title": "MVGenMaster: Scaling Multi-View Generation from Any Image via 3D Priors Enhanced Diffusion Model",
+    "authors": [
+      "Chenjie Cao",
+      "Chaohui Yu",
+      "Shang Liu",
+      "Fan Wang",
+      "Xiangyang Xue",
+      "Yanwei Fu"
+    ],
+    "url": null
+  },
+  {
+    "title": "MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction",
+    "authors": [
+      "Wenyuan Zhang",
+      "Yixiao Yang",
+      "Han Huang",
+      "Liang Han",
+      "Kanle Shi",
+      "Yu-Shen Liu",
+      "Zhizhong Han"
+    ],
+    "url": null
+  },
+  {
+    "title": "MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation",
+    "authors": [
+      "Aviral Chharia",
+      "Wenbo Gou",
+      "Haoye Dong"
+    ],
+    "url": null
+  },
+  {
+    "title": "EASEMVC:Efficient Dual Selection Mechanism for Deep Multi-View Clustering",
+    "authors": [
+      "Baili Xiao",
+      "Zhibin Dong",
+      "KE LIANG",
+      "Suyuan Liu",
+      "Siwei Wang",
+      "Tianrui Liu",
+      "Xingchen Hu",
+      "En Zhu",
+      "Xinwang Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "GeoAvatar: Geometrically-Consistent Multi-Person Avatar Reconstruction from Sparse Multi-View Videos",
+    "authors": [
+      "SooHyun Lee",
+      "SeoYeon Kim",
+      "HeeKyung Lee",
+      "Won-Sik Cheong",
+      "Joo Ho Lee"
+    ],
+    "url": null
+  },
+  {
+    "title": "3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement",
+    "authors": [
+      "Yihang Luo",
+      "Shangchen Zhou",
+      "Yushi Lan",
+      "Xingang Pan",
+      "Chen Change Loy"
+    ],
+    "url": null
+  },
+  {
+    "title": "FaceBench: A Multi-View  Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs",
+    "authors": [
+      "Xiaoqin Wang",
+      "Xusen Ma",
+      "Xianxu Hou",
+      "Meidan Ding",
+      "Yudong Li",
+      "Junliang Chen",
+      "Wenting Chen",
+      "Xiaoyang Peng",
+      "Linlin Shen"
+    ],
+    "url": null
+  },
+  {
+    "title": "EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting",
+    "authors": [
+      "Dong In Lee",
+      "Hyeongcheol Park",
+      "Jiyoung Seo",
+      "Eunbyung Park",
+      "Hyunje Park",
+      "Ha Dam Baek",
+      "Shin sangheon",
+      "sangmin kim",
+      "Sangpil Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Medusa: A Multi-Scale High-order Contrastive Dual-Diffusion Approach for Multi-View Clustering",
+    "authors": [
+      "Liang Chen",
+      "Zhe Xue",
+      "Yawen Li",
+      "Meiyu Liang",
+      "Yan Wang",
+      "Anton van den Hengel",
+      "Yuankai Qi"
+    ],
+    "url": null
+  },
+  {
+    "title": "ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence",
+    "authors": [
+      "Yuan Sun",
+      "Yongxiang Li",
+      "Zhenwen Ren",
+      "Guiduo Duan",
+      "Dezhong Peng",
+      "Peng Hu"
+    ],
+    "url": null
+  },
+  {
+    "title": "MET3R: Measuring Multi-View Consistency in Generated Images",
+    "authors": [
+      "Mohammad Asim",
+      "Christopher Wewer",
+      "Thomas Wimmer",
+      "Bernt Schiele",
+      "Jan Lenssen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Dense-To-Sparse  Video Diffusion  For High-fidelity  Multi-View Images Synthesis",
+    "authors": [
+      "Fan Yang",
+      "Jianfeng Zhang",
+      "Jun Hao Liew",
+      "Chaoyue Song",
+      "Zhongcong Xu",
+      "Xiu Li",
+      "Jiashi Feng",
+      "Guosheng Lin"
+    ],
+    "url": null
+  },
+  {
+    "title": "Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos",
+    "authors": [
+      "Sagnik Majumder",
+      "Tushar Nagarajan",
+      "Ziad Al-Halah",
+      "Reina Pradhan",
+      "Kristen Grauman"
+    ],
+    "url": null
+  },
+  {
+    "title": "MuTri: Multi-view Tri-alignment for OCT to OCTA 3D Image Translation",
+    "authors": [
+      "zhuangzhuang chen",
+      "hualiang wang",
+      "Chubin Ou",
+      "Xiaomeng Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "MVSAnywhere: Zero Shot Multi-View Stereo",
+    "authors": [
+      "Sergio Izquierdo",
+      "Mohamed Sayed",
+      "Michael Firman",
+      "Guillermo Garcia-Hernando",
+      "Daniyar Turmukhambetov",
+      "Javier Civera",
+      "Oisin Mac Aodha",
+      "Gabriel Brostow",
+      "Jamie Watson"
+    ],
+    "url": null
+  },
+  {
+    "title": "MammAlps: A multi-view video dataset of wild mammals behavior monitoring in the Swiss Alps",
+    "authors": [
+      "VALENTIN GABEFF",
+      "Haozhe Qi",
+      "Brendan Flaherty",
+      "Gencer Sumbul",
+      "Alexander Mathis",
+      "Devis Tuia"
+    ],
+    "url": null
+  },
+  {
+    "title": "Incomplete Multi-View Multi-label Learning via Disentangled Representation and Label Semantic Embedding",
+    "authors": [
+      "Xu Yan",
+      "Jun Yin",
+      "Jie Wen"
+    ],
+    "url": null
+  },
+  {
+    "title": "MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation",
+    "authors": [
+      "Yukang Lin",
+      "Hokit Fung",
+      "Jianjin Xu",
+      "Zeping Ren",
+      "Adela S.M. Lau",
+      "Guosheng Yin",
+      "Xiu Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos",
+    "authors": [
+      "Prithviraj Banerjee",
+      "Sindi Shkodrani",
+      "Pierre Moulon",
+      "Shreyas Hampali",
+      "Shangchen Han",
+      "Fan Zhang",
+      "Linguang Zhang",
+      "Jade Fountain",
+      "Edward Miller",
+      "Selen Basol",
+      "Richard Newcombe",
+      "Robert Wang",
+      "Jakob Engel",
+      "Tomas Hodan"
+    ],
+    "url": null
+  },
+  {
+    "title": "CoMatcher: Multi-View Collaborative Feature Matching",
+    "authors": [
+      "Jintao Zhang",
+      "Zimin Xia",
+      "Mingyue Dong",
+      "Shuhan Shen",
+      "Linwei Yue",
+      "Xianwei Zheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "SKDream: Controllable Multi-view and 3D Generation with Arbitrary Skeletons",
+    "authors": [
+      "Yuanyou Xu",
+      "Zongxin Yang",
+      "Yi Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Geometry-guided Online 3D Video Synthesis with Multi-View Temporal Consistency",
+    "authors": [
+      "Hyunho Ha",
+      "Lei Xiao",
+      "Christian Richardt",
+      "Thu Nguyen-Phuoc",
+      "Changil Kim",
+      "Min H. Kim",
+      "Douglas Lanman",
+      "Numair Khan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Enhancing Testing-Time Robustness for Trusted Multi-View Classification in the Wild",
+    "authors": [
+      "Wei Liu",
+      "Yufei Chen",
+      "Xiaodong Yue"
+    ],
+    "url": null
+  },
+  {
+    "title": "SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis",
+    "authors": [
+      "Hyojun Go",
+      "byeongjun park",
+      "Jiho Jang",
+      "Jin-Young Kim",
+      "Soonwoo Kwon",
+      "Changick Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels",
+    "authors": [
+      "Jiyuan Liu",
+      "Xinwang Liu",
+      "chuankun Li",
+      "Xinhang Wan",
+      "Hao Tan",
+      "Yi Zhang",
+      "Weixuan Liang",
+      "Qian Qu",
+      "Yu Feng",
+      "Renxiang Guan",
+      "KE LIANG"
+    ],
+    "url": null
+  },
+  {
+    "title": "Deep Fair Multi-View Clustering with Attention KAN",
+    "authors": [
+      "HaiMing Xu",
+      "Qianqian Wang",
+      "Boyue Wang",
+      "Quanxue Gao"
+    ],
+    "url": null
+  },
+  {
+    "title": "CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models",
+    "authors": [
+      "Felix Taubner",
+      "Ruihang Zhang",
+      "Mathieu Tuli",
+      "David B. Lindell"
+    ],
+    "url": null
+  },
+  {
+    "title": "Robust-MVTON: Learning Cross-Pose Feature Alignment and Fusion for Robust Multi-View Virtual Try-On",
+    "authors": [
+      "Nannan Zhang",
+      "Yijiang Li",
+      "Dong Du",
+      "Zheng Chong",
+      "Zhengwentai Sun",
+      "Jianhao Zeng",
+      "Yusheng Dai",
+      "Zhenyu Xie",
+      "Hairui Zhu",
+      "Xiaoguang Han"
+    ],
+    "url": null
+  },
+  {
+    "title": "Learning from Synchronization: Self-Supervised Uncalibrated Multi-View Person Association in Challenging Scenes",
+    "authors": [
+      "Keqi Chen",
+      "vinkle srivastav",
+      "Didier MUTTER",
+      "Nicolas Padoy"
+    ],
+    "url": null
+  },
+  {
+    "title": "RoGSplat: Learning Robust Generalizable Human Gaussian Splatting from Sparse Multi-View Images",
+    "authors": [
+      "Junjin Xiao",
+      "Qing Zhang",
+      "Yongwei Nie",
+      "Lei Zhu",
+      "Wei-Shi Zheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "PartGen: Part-level 3D Generation and Reconstruction with Multi-view Diffusion Models",
+    "authors": [
+      "Minghao Chen",
+      "Roman Shapovalov",
+      "Iro Laina",
+      "Tom Monnier",
+      "Jianyuan Wang",
+      "David Novotny",
+      "Andrea Vedaldi"
+    ],
+    "url": null
+  },
+  {
+    "title": "CorrBEV:Multi-View 3D Object Detection by Correlation Learning with Multi-modal Prototypes",
+    "authors": [
+      "ziteng xue",
+      "Mingzhe Guo",
+      "Heng Fan",
+      "Shihui Zhang",
+      "Zhipeng Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Enhanced then Progressive Fusion with View Graph for Multi-View Clustering",
+    "authors": [
+      "Zhibin Dong",
+      "Meng Liu",
+      "Siwei Wang",
+      "KE LIANG",
+      "Yi Zhang",
+      "Suyuan Liu",
+      "Jiaqi Jin",
+      "Xinwang Liu",
+      "En Zhu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation",
+    "authors": [
+      "Yiftach Edelstein",
+      "Or Patashnik",
+      "Dana Cohen-Bar",
+      "Lihi Zelnik-Manor"
+    ],
+    "url": null
+  },
+  {
+    "title": "GAF:  Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion",
+    "authors": [
+      "Jiapeng Tang",
+      "Davide Davoli",
+      "Tobias Kirschstein",
+      "Liam Schoneveld",
+      "Matthias Nie\u00dfner"
+    ],
+    "url": null
+  },
+  {
+    "title": "SceneCrafter: Controllable Multi-View Driving Scene Editing",
+    "authors": [
+      "Zehao Zhu",
+      "Yuliang Zou",
+      "Chiyu \u201cMax\u201d Jiang",
+      "Bo Sun",
+      "Vincent Casser",
+      "XIUKUN HUANG",
+      "Jiahao Wang",
+      "Zhenpei Yang",
+      "Ruiqi Gao",
+      "Leonidas Guibas",
+      "Mingxing Tan",
+      "Dragomir Anguelov"
+    ],
+    "url": null
+  },
+  {
+    "title": "MVBoost: Boost 3D Reconstruction with Multi-View Refinement",
+    "authors": [
+      "Xiangyu Liu",
+      "Xiaomei Zhang",
+      "Zhiyuan Ma",
+      "Xiangyu Zhu",
+      "Zhen Lei"
+    ],
+    "url": null
+  },
+  {
+    "title": "MUSt3R : Multi-view Network for Stereo 3D Reconstruction",
+    "authors": [
+      "Yohann Cabon",
+      "Lucas Stoffl",
+      "Leonid Antsfeld",
+      "Gabriela Csurka",
+      "Boris Chidlovskii",
+      "Jerome Revaud",
+      "Vincent Leroy"
+    ],
+    "url": null
+  },
+  {
+    "title": "MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects",
+    "authors": [
+      "Lei Fan",
+      "Dongdong Fan",
+      "Zhiguang Hu",
+      "Yiwen Ding",
+      "Donglin Di",
+      "Kai Yi",
+      "Maurice Pagnucco",
+      "Yang Song"
+    ],
+    "url": null
+  },
+  {
+    "title": "Cross-Modal 3D Representation with Multi-View Images and Point Clouds",
+    "authors": [
+      "Ziyang Zhou",
+      "Pinghui Wang",
+      "Zi Liang",
+      "Haitao Bai",
+      "Ruofei Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Zero-Shot Novel View and Depth Synthesis with Multi-View Geometric Diffusion",
+    "authors": [
+      "Vitor Guizilini",
+      "Zubair Irshad",
+      "Dian Chen",
+      "Greg Shakhnarovich",
+      "Rares Andrei Ambrus"
+    ],
+    "url": null
+  },
+  {
+    "title": "IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement",
+    "authors": [
+      "Zhihao Shi",
+      "Dong Huo",
+      "Yuhongze Zhou",
+      "Yan Min",
+      "Juwei Lu",
+      "Xinxin Zuo"
+    ],
+    "url": null
+  },
+  {
+    "title": "AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering",
+    "authors": [
+      "Jing Wang",
+      "Songhe Feng",
+      "Kristoffer Knutsen Wickstr\u00f8m",
+      "Michael C. Kampffmeyer"
+    ],
+    "url": null
+  },
+  {
+    "title": "SeqMvRL: A Sequential Fusion Framework for Multi-view Representation Learning",
+    "authors": [
+      "Ren Wang",
+      "Haoliang Sun",
+      "Yuxiu Lin",
+      "Chuanhui Zuo",
+      "Yongshun Gong",
+      "Yilong Yin",
+      "Wenjia Meng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Multi-view Reconstruction via SfM-guided Monocular Depth Estimation",
+    "authors": [
+      "Haoyu Guo",
+      "He Zhu",
+      "Sida Peng",
+      "Haotong Lin",
+      "Yunzhi Yan",
+      "Tao Xie",
+      "Wenguan Wang",
+      "Xiaowei Zhou",
+      "Hujun Bao"
+    ],
+    "url": null
+  },
+  {
+    "title": "MVPaint: 3D Texture Generation with Multi-View Consistency",
+    "authors": [
+      "Wei Cheng",
+      "Juncheng Mu",
+      "Xianfang Zeng",
+      "Xin Chen",
+      "Anqi Pang",
+      "Chi Zhang",
+      "Zhibin Wang",
+      "Bin Fu",
+      "Gang Yu",
+      "Ziwei Liu",
+      "Liang Pan"
+    ],
+    "url": null
+  },
+  {
+    "title": "M3GYM: A Large-Scale Multimodal Multi-view Multi-person Pose Dataset for Fitness Activity Understanding in Real-world Settings",
+    "authors": [
+      "Qingzheng Xu",
+      "Ru Cao",
+      "Xin Shen",
+      "Heming Du",
+      "Sen Wang",
+      "Xin Yu"
+    ],
+    "url": null
+  },
+  {
+    "title": "DriveScape: High-Resolution Driving Video Generation by Multi-View Feature Fusion",
+    "authors": [
+      "Wei Wu",
+      "Xi Guo",
+      "Weixuan TANG",
+      "Tingxuan Huang",
+      "Chiyu Wang",
+      "Chenjing Ding"
+    ],
+    "url": null
+  },
+  {
+    "title": "CaMuViD: Calibration-Free Multi-View Detection",
+    "authors": [
+      "Amir Etefaghi Daryani",
+      "M. Usman Maqbool Bhutta",
+      "Byron Hernandez",
+      "Henry Medeiros"
+    ],
+    "url": null
+  },
+  {
+    "title": "MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation",
+    "authors": [
+      "Jae-Ho Choi",
+      "Soheil Hor",
+      "Shubo Yang",
+      "Amin Arbabian"
+    ],
+    "url": null
+  },
+  {
+    "title": "Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels",
+    "authors": [
+      "Quanjiang Li",
+      "Tingjin Luo",
+      "Jiahui Liao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Attribute-Missing Multi-view Graph Clustering",
+    "authors": [
+      "Bowen Zhao",
+      "Qianqian Wang",
+      "Zhengming Ding",
+      "Quanxue Gao"
+    ],
+    "url": null
+  },
+  {
+    "title": "PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction",
+    "authors": [
+      "Mingzhi Pei",
+      "Xu Cao",
+      "Xiangyi Wang",
+      "Heng Guo",
+      "Zhanyu Ma"
+    ],
+    "url": null
+  },
+  {
+    "title": "CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models",
+    "authors": [
+      "Rundi Wu",
+      "Ruiqi Gao",
+      "Ben Poole",
+      "Alex Trevithick",
+      "Changxi Zheng",
+      "Jonathan T. Barron",
+      "Aleksander Holynski"
+    ],
+    "url": null
+  }
+]

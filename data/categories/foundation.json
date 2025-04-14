@@ -1,0 +1,519 @@
+[
+  {
+    "title": "Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning",
+    "authors": [
+      "Na Zheng",
+      "Xuemeng Song",
+      "Xue Dong",
+      "Aashish Nikhil Ghosh",
+      "Liqiang Nie",
+      "Roger Zimmermann"
+    ],
+    "url": null
+  },
+  {
+    "title": "SapiensID: Foundation for Human Recognition",
+    "authors": [
+      "Minchul Kim",
+      "Dingqiang Ye",
+      "Yiyang Su",
+      "Feng Liu",
+      "Xiaoming Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics",
+    "authors": [
+      "Pramit Saha",
+      "Felix Wagner",
+      "Divyanshu Mishra",
+      "Can Peng",
+      "Anshul Thakur",
+      "David A. Clifton",
+      "Konstantinos Kamnitsas",
+      "Alison Noble"
+    ],
+    "url": null
+  },
+  {
+    "title": "OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging",
+    "authors": [
+      "Yijie Tang",
+      "Jiazhao Zhang",
+      "Yuqing Lan",
+      "Yulan Guo",
+      "Dezun Dong",
+      "Chenyang Zhu",
+      "Kai Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology",
+    "authors": [
+      "Yuxuan Sun",
+      "Yixuan Si",
+      "Chenglu Zhu",
+      "Xuan Gong",
+      "Kai Zhang",
+      "Pingyi Chen",
+      "Ye Zhang",
+      "Zhongyi Shui",
+      "Tao Lin",
+      "Lin Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "DEFOM-Stereo: Depth Foundation Model Based Stereo Matching",
+    "authors": [
+      "Hualie Jiang",
+      "Zhiqiang Lou",
+      "Laiyan Ding",
+      "Rui Xu",
+      "Minglang Tan",
+      "jerett",
+      "Rui Huang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Foundations of the Theory of Performance-Based Ranking",
+    "authors": [
+      "S\u00e9bastien Pi\u00e9rard",
+      "Ana\u00efs Halin",
+      "Anthony Cioppa",
+      "Adrien Deliege",
+      "Marc Van Droogenbroeck"
+    ],
+    "url": null
+  },
+  {
+    "title": "Argus: A Compact and Versatile Foundation Model for Vision",
+    "authors": [
+      "Weiming Zhuang",
+      "Chen Chen",
+      "Zhizhong Li",
+      "Sina Sajadmanesh",
+      "Jingtao Li",
+      "Jiabo Huang",
+      "Vikash Sehwag",
+      "Vivek Sharma",
+      "Hirotaka Shinozaki",
+      "Felan Carlo Garcia",
+      "Yihao Zhan",
+      "Naohiro Adachi",
+      "Ryoji Eki",
+      "Michael Spranger",
+      "Peter Stone",
+      "Lingjuan Lyu"
+    ],
+    "url": null
+  },
+  {
+    "title": "vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation",
+    "authors": [
+      "Bastian Wittmann",
+      "Yannick Wattenberg",
+      "Tamaz Amiranashvili",
+      "Suprosanna Shit",
+      "Bjoern Menze"
+    ],
+    "url": null
+  },
+  {
+    "title": "Sketchtopia: A Dataset and Foundational Agents for Benchmarking Asynchronous Multimodal Communication with Iconic Feedback",
+    "authors": [
+      "Mohd Hozaifa Khan",
+      "Ravi Kiran Sarvadevabhatla"
+    ],
+    "url": null
+  },
+  {
+    "title": "Visual Persona: Foundation Model for Full-Body Human Customization",
+    "authors": [
+      "Jisu Nam",
+      "Soowon Son",
+      "Zhan Xu",
+      "Jing Shi",
+      "Difan Liu",
+      "Feng Liu",
+      "Seungryong Kim",
+      "Yang Zhou"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model",
+    "authors": [
+      "Yue-Hua Han",
+      "Tai-Ming Huang",
+      "Kailung Hua",
+      "Jun-Cheng Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Post-pre-training for Modality Alignment in Vision-Language Foundation Models",
+    "authors": [
+      "Shin'ya Yamaguchi",
+      "Dewei Feng",
+      "Sekitoshi Kanai",
+      "Kazuki Adachi",
+      "Daiki Chijiwa"
+    ],
+    "url": null
+  },
+  {
+    "title": "GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding",
+    "authors": [
+      "Haoyi Jiang",
+      "Liu Liu",
+      "Tianheng Cheng",
+      "Xinjie wang",
+      "Tianwei Lin",
+      "Zhizhong Su",
+      "Wenyu Liu",
+      "Xinggang Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models",
+    "authors": [
+      "Yankai Jiang",
+      "Peng Zhang",
+      "Donglin Yang",
+      "Yuan Tian",
+      "Hai Lin",
+      "Xiaosong Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation",
+    "authors": [
+      "Yueru Jia",
+      "Jiaming Liu",
+      "Sixiang Chen",
+      "Chenyang Gu",
+      "Zhilve Wang",
+      "Xiaoqi Li",
+      "Longzan Luo",
+      "Pengwei Wang",
+      "Renrui Zhang",
+      "Zhongyuan Wang",
+      "Shanghang Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Efficient Foundation Model for Zero-shot Amodal Segmentation",
+    "authors": [
+      "Zhaochen Liu",
+      "Limeng Qiao",
+      "Xiangxiang Chu",
+      "Lin Ma",
+      "Tingting Jiang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation",
+    "authors": [
+      "Zhuoman Liu",
+      "Weicai Ye",
+      "Yan Luximon",
+      "Pengfei Wan",
+      "Di ZHANG"
+    ],
+    "url": null
+  },
+  {
+    "title": "MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models",
+    "authors": [
+      "Yifan Liu",
+      "Keyu Fan",
+      "Weihao Yu",
+      "Chenxin Li",
+      "Hao Lu",
+      "Yixuan Yuan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics",
+    "authors": [
+      "Shibo Zhao",
+      "Sifan Zhou",
+      "Raphael Blanchard",
+      "Yuheng Qiu",
+      "Wenshan Wang",
+      "Sebastian Scherer"
+    ],
+    "url": null
+  },
+  {
+    "title": "Meta-Learning Hyperparameters for Foundation Model Adaptation in Remote-Sensing Imagery",
+    "authors": [
+      "Zichen Tian",
+      "Yaoyao Liu",
+      "Qianru Sun"
+    ],
+    "url": null
+  },
+  {
+    "title": "SketchFusion: Learning Universal Sketch Features through Fusing Foundation Models",
+    "authors": [
+      "Subhadeep Koley",
+      "Tapas Kumar Dutta",
+      "Aneeshan Sain",
+      "Pinaki Nath Chowdhury",
+      "Ayan Kumar Bhunia",
+      "Yi-Zhe Song"
+    ],
+    "url": null
+  },
+  {
+    "title": "Efficient Transfer Learning for Video-language Foundation Models",
+    "authors": [
+      "Haoxing Chen",
+      "Zizheng Huang",
+      "Yan Hong",
+      "YANSHUO WANG",
+      "Zhongcai Lyu",
+      "Zhuoer Xu",
+      "Jun Lan",
+      "Zhangxuan Gu"
+    ],
+    "url": null
+  },
+  {
+    "title": "ECBench: Can Multi-modal Foundation Models Understand the Egocentric World?  A Holistic Embodied Cognition Benchmark",
+    "authors": [
+      "Ronghao Dang",
+      "Yuqian Yuan",
+      "Wenqi Zhang",
+      "Yifei Xin",
+      "Boqiang Zhang",
+      "Long Li",
+      "Liuyi Wang",
+      "qinyang zeng",
+      "Xin Li",
+      "Lidong Bing"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation",
+    "authors": [
+      "Junha Lee",
+      "Chunghyun Park",
+      "Jaesung Choe",
+      "Yu-Chiang Frank Wang",
+      "Jan Kautz",
+      "Minsu Cho",
+      "Chris Choy"
+    ],
+    "url": null
+  },
+  {
+    "title": "RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models",
+    "authors": [
+      "Greg Heinrich",
+      "Mike Ranzinger",
+      "Danny Yin",
+      "Yao Lu",
+      "Jan Kautz",
+      "Bryan Catanzaro",
+      "Andrew Tao",
+      "Pavlo Molchanov"
+    ],
+    "url": null
+  },
+  {
+    "title": "VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging",
+    "authors": [
+      "Yufan He",
+      "Pengfei Guo",
+      "Yucheng Tang",
+      "Andriy Myronenko",
+      "Vishwesh Nath",
+      "Ziyue Xu",
+      "Dong Yang",
+      "Can Zhao",
+      "Benjamin D. Simon",
+      "Mason Belue",
+      "Stephanie Anne Harmon",
+      "Baris Turkbey",
+      "Daguang Xu",
+      "Wenqi Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery",
+    "authors": [
+      "Jingtao Li",
+      "Yingyi Liu",
+      "XINYU WANG",
+      "Yunning Peng",
+      "Chen Sun",
+      "Shaoyu Wang",
+      "Zhendong Sun",
+      "Tian Ke",
+      "Xiao Jiang",
+      "Tangwei Lu",
+      "Anran Zhao",
+      "Yanfei Zhong"
+    ],
+    "url": null
+  },
+  {
+    "title": "OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad",
+    "authors": [
+      "Luyao Tang",
+      "Chaoqi Chen",
+      "Yuxuan Yuan",
+      "Zeyu Zhang",
+      "Yue Huang",
+      "Kun Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Magma: A Foundation Model for Multimodal AI Agents",
+    "authors": [
+      "Jianwei Yang",
+      "Reuben Tan",
+      "Qianhui Wu",
+      "Ruijie Zheng",
+      "Baolin Peng",
+      "Yongyuan Liang",
+      "Yu Gu",
+      "Mu Cai",
+      "Seonghyeon Ye",
+      "Joel Jang",
+      "Yuquan Deng",
+      "Jianfeng Gao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Improving Visual and Downstream Performance of Low-Light Enhancer with Vision Foundation Models Collaboration",
+    "authors": [
+      "yuxuan Gu",
+      "Huaian Chen",
+      "Yi Jin",
+      "Haoxuan Wang",
+      "Pengyang Ling",
+      "ZHIXIANG WEI",
+      "Enhong Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Distilling Monocular Foundation Model for Fine-grained Depth Completion",
+    "authors": [
+      "Yingping Liang",
+      "Yutao Hu",
+      "Wenqi Shao",
+      "Ying Fu"
+    ],
+    "url": null
+  },
+  {
+    "title": "CH$_3$Depth: Efficient and Flexible Depth Foundation Model with Flow Matching",
+    "authors": [
+      "Jiaqi Li",
+      "Yiran Wang",
+      "Jinghong Zheng",
+      "Junrui Zhang",
+      "Liao Shen",
+      "Tianqi Liu",
+      "Zhiguo Cao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Do computer vision foundation models learn the low-level characteristics of the human visual system?",
+    "authors": [
+      "Yancheng Cai",
+      "Fei Yin",
+      "Dounia Hammou",
+      "Rafal Mantiuk"
+    ],
+    "url": null
+  },
+  {
+    "title": "Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models",
+    "authors": [
+      "Kartik Thakral",
+      "Tamar Glaser",
+      "Tal Hassner",
+      "Mayank Vatsa",
+      "Richa Singh"
+    ],
+    "url": null
+  },
+  {
+    "title": "BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing",
+    "authors": [
+      "Yunqi Gu",
+      "Ian Huang",
+      "Jihyeon Je",
+      "Guandao Yang",
+      "Leonidas Guibas"
+    ],
+    "url": null
+  },
+  {
+    "title": "RobSense: A Robust Multi-modal Foundation Model for Remote Sensing with Static, Temporal, and Incomplete Data Adaptability",
+    "authors": [
+      "Minh Kha Do",
+      "Kang Han",
+      "Phu Lai",
+      "Khoa T. Phan",
+      "Wei Xiang"
+    ],
+    "url": null
+  },
+  {
+    "title": "CustomKD: Customizing Large Vision Foundation for Edge Model Improvement via Knowledge Distillation",
+    "authors": [
+      "Jungsoo Lee",
+      "Debasmit Das",
+      "Munawar Hayat",
+      "Sungha Choi",
+      "Kyuwoong Hwang",
+      "Fatih Porikli"
+    ],
+    "url": null
+  },
+  {
+    "title": "Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation",
+    "authors": [
+      "Qinghe Ma",
+      "Jian Zhang",
+      "Zekun Li",
+      "Lei Qi",
+      "Qian Yu",
+      "Yinghuan Shi"
+    ],
+    "url": null
+  },
+  {
+    "title": "FisherTune: Fisher-Guided Robust Tuning of Vision Foundation Models for Domain Generalized Segmentation",
+    "authors": [
+      "Dong Zhao",
+      "Jinlong Li",
+      "Shuang Wang",
+      "Mengyao Wu",
+      "Qi Zang",
+      "Nicu Sebe",
+      "Zhun Zhong"
+    ],
+    "url": null
+  }
+]

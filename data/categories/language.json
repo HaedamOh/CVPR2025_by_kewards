@@ -1,0 +1,2979 @@
+[
+  {
+    "title": "Teaching Large Language Models to Regress Accurate Image Quality Scores using Score Distribution",
+    "authors": [
+      "Zhiyuan You",
+      "Xin Cai",
+      "Jinjin Gu",
+      "Tianfan Xue",
+      "Chao Dong"
+    ],
+    "url": null
+  },
+  {
+    "title": "Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning",
+    "authors": [
+      "Na Zheng",
+      "Xuemeng Song",
+      "Xue Dong",
+      "Aashish Nikhil Ghosh",
+      "Liqiang Nie",
+      "Roger Zimmermann"
+    ],
+    "url": null
+  },
+  {
+    "title": "LLAVIDAL: A Large LAnguage VIsion Model for Daily Activities of Living",
+    "authors": [
+      "Dominick Reilly",
+      "Rajatsubhra Chakraborty",
+      "Arkaprava Sinha",
+      "Manish Kumar Govind",
+      "Pu Wang",
+      "Francois Bremond",
+      "Le Xue",
+      "Srijan Das"
+    ],
+    "url": null
+  },
+  {
+    "title": "EventGPT: Event Stream Understanding with Multimodal Large Language Models",
+    "authors": [
+      "shaoyu liu",
+      "Jianing Li",
+      "guanghui zhao",
+      "Yunjian Zhang",
+      "Xin Meng",
+      "Fei Richard Yu",
+      "Xiangyang Ji",
+      "Ming Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Font-Agent: Enhancing Font Understanding with Large Language Models",
+    "authors": [
+      "Yingxin Lai",
+      "Cuijie Xu",
+      "Haitian Shi",
+      "Guoqing Yang",
+      "Xiaoning Li",
+      "Zhiming Luo",
+      "Shaozi Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Once-Tuning-Multiple-Variants: Tuning Once and Expanded as Multiple Vision-Language Model Variants",
+    "authors": [
+      "Chong Yu",
+      "Tao Chen",
+      "Zhongxue Gan"
+    ],
+    "url": null
+  },
+  {
+    "title": "SVLTA: Benchmarking Vision-Language Temporal Alignment via Synthetic Video Situation",
+    "authors": [
+      "Hao Du",
+      "Bo Wu",
+      "Yan Lu",
+      "Zhendong Mao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model",
+    "authors": [
+      "Benlin Liu",
+      "Yuhao Dong",
+      "Yiqin Wang",
+      "Zixian Ma",
+      "Yansong Tang",
+      "Luming Tang",
+      "Yongming Rao",
+      "Wei-Chiu Ma",
+      "Ranjay Krishna"
+    ],
+    "url": null
+  },
+  {
+    "title": "Joint Vision-Language Social Bias Removal for CLIP",
+    "authors": [
+      "Haoyu Zhang",
+      "Yangyang Guo",
+      "Mohan Kankanhalli"
+    ],
+    "url": null
+  },
+  {
+    "title": "SmartCLIP: Modular Vision-language Alignment with Identification Guarantees",
+    "authors": [
+      "Shaoan Xie",
+      "Lingjing Kong",
+      "Yujia Zheng",
+      "Yu Yao",
+      "Zeyu Tang",
+      "Eric P. Xing",
+      "Guangyi Chen",
+      "Kun Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding",
+    "authors": [
+      "Han Xiao",
+      "yina xie",
+      "Guanxin tan",
+      "Yinghao Chen",
+      "Rui Hu",
+      "Ke Wang",
+      "Aojun Zhou",
+      "Hao Li",
+      "Hao Shao",
+      "Xudong LU",
+      "Peng Gao",
+      "Yafei Wen",
+      "Xiaoxin Chen",
+      "Shuai Ren",
+      "Hongsheng Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large Language Models on Mobile Devices",
+    "authors": [
+      "Xudong LU",
+      "Yinghao Chen",
+      "chencheng Chen",
+      "Hui Tan",
+      "Boheng Chen",
+      "yina xie",
+      "Rui Hu",
+      "Guanxin tan",
+      "Renshou Wu",
+      "Yan Hu",
+      "Yi Zeng",
+      "Lei Wu",
+      "Liuyang Bian",
+      "Zhaoxiong Wang",
+      "Long Liu",
+      "Yanzhou Yang",
+      "Han Xiao",
+      "Aojun Zhou",
+      "Yafei Wen",
+      "Xiaoxin Chen",
+      "Shuai Ren",
+      "Hongsheng Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Task-Aware Clustering for Prompting Vision-Language Models",
+    "authors": [
+      "Fusheng Hao",
+      "Fengxiang He",
+      "Fuxiang Wu",
+      "Tichao Wang",
+      "Chengqun Song",
+      "Jun Cheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Weakly Supervised Temporal Action Localization via Dual-Prior Collaborative Learning Guided by Multimodal Large Language Models",
+    "authors": [
+      "Quan Zhang",
+      "Jinwei Fang",
+      "Rui Yuan",
+      "Xi Tang",
+      "Yuxin Qi",
+      "Ke Zhang",
+      "Chun Yuan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks",
+    "authors": [
+      "Haijin Zeng",
+      "Xiangming Wang",
+      "Yongyong Chen",
+      "Jingyong Su",
+      "Jie Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key",
+    "authors": [
+      "Zhihe Yang",
+      "Xufang Luo",
+      "Dongqi Han",
+      "Yunjian Xu",
+      "Dongsheng Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
+    "authors": [
+      "Wanhua Li",
+      "Renping Zhou",
+      "Jiawei Zhou",
+      "Yingwei Song",
+      "Johannes Herter",
+      "Minghan Qin",
+      "Gao Huang",
+      "Hanspeter Pfister"
+    ],
+    "url": null
+  },
+  {
+    "title": "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking",
+    "authors": [
+      "Xinqi Liu",
+      "Li Zhou",
+      "Zikun Zhou",
+      "Jianqiu Chen",
+      "Zhenyu He"
+    ],
+    "url": null
+  },
+  {
+    "title": "VL2Lite: Task-Specific Knowledge Distillation from Large Vision-Language Models to Lightweight Networks",
+    "authors": [
+      "Jinseong Jang",
+      "Chunfei Ma",
+      "Byeongwon Lee"
+    ],
+    "url": null
+  },
+  {
+    "title": "It\u2019s a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data",
+    "authors": [
+      "Dominik Schnaus",
+      "Nikita Araslanov",
+      "Daniel Cremers"
+    ],
+    "url": null
+  },
+  {
+    "title": "GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model",
+    "authors": [
+      "Yue Han",
+      "Jiangning Zhang",
+      "Junwei Zhu",
+      "Runze Hou",
+      "Xiaozhong Ji",
+      "Chuming Lin",
+      "Xiaobin Hu",
+      "Xuezhucun Xue",
+      "Yong Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics",
+    "authors": [
+      "Pramit Saha",
+      "Felix Wagner",
+      "Divyanshu Mishra",
+      "Can Peng",
+      "Anshul Thakur",
+      "David A. Clifton",
+      "Konstantinos Kamnitsas",
+      "Alison Noble"
+    ],
+    "url": null
+  },
+  {
+    "title": "GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation",
+    "authors": [
+      "Lang Lin",
+      "Xueyang Yu",
+      "Ziqi Pang",
+      "Yu-Xiong Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models",
+    "authors": [
+      "Dhouib Mohamed",
+      "Davide Buscaldi",
+      "Vanier Sonia",
+      "Aymen Shabou"
+    ],
+    "url": null
+  },
+  {
+    "title": "VSNet: Focusing on the Linguistic Characteristics of Sign Language",
+    "authors": [
+      "Yuhao Li",
+      "Xinyue Chen",
+      "Hongkai Li",
+      "Xiaorong Pu",
+      "Peng Jin",
+      "Yazhou Ren"
+    ],
+    "url": null
+  },
+  {
+    "title": "Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues",
+    "authors": [
+      "Youngjoon Jang",
+      "Haran Raajesh",
+      "Liliane Momeni",
+      "Gul Varol",
+      "Andrew Zisserman"
+    ],
+    "url": null
+  },
+  {
+    "title": "LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos",
+    "authors": [
+      "Tiantian Geng",
+      "Jinrui Zhang",
+      "Qingni Wang",
+      "Teng Wang",
+      "Jinming Duan",
+      "Feng Zheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts",
+    "authors": [
+      "Qizhou Chen",
+      "Chengyu Wang",
+      "Dakan Wang",
+      "Taolin Zhang",
+      "Wangyue Li",
+      "Xiaofeng He"
+    ],
+    "url": null
+  },
+  {
+    "title": "HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding",
+    "authors": [
+      "Chenxin Tao",
+      "Shiqian Su",
+      "Xizhou Zhu",
+      "Chenyu Zhang",
+      "Zhe Chen",
+      "Jiawen Liu",
+      "Wenhai Wang",
+      "Lewei Lu",
+      "Gao Huang",
+      "Yu Qiao",
+      "Jifeng Dai"
+    ],
+    "url": null
+  },
+  {
+    "title": "ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary",
+    "authors": [
+      "Zeqi Gu",
+      "Yin Cui",
+      "Max Li",
+      "Fangyin Wei",
+      "Yunhao Ge",
+      "Jinwei Gu",
+      "Ming-Yu Liu",
+      "Abe Davis",
+      "Yifan Ding"
+    ],
+    "url": null
+  },
+  {
+    "title": "VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding",
+    "authors": [
+      "Chaoyu Li",
+      "Eun Woo Im",
+      "Pooyan Fazli"
+    ],
+    "url": null
+  },
+  {
+    "title": "Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks",
+    "authors": [
+      "Han Wang",
+      "Gang Wang",
+      "Huan Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding",
+    "authors": [
+      "Hongyu Li",
+      "Jinyu Chen",
+      "Ziyu Wei",
+      "Shaofei Huang",
+      "Tianrui Hui",
+      "Jialin Gao",
+      "Xiaoming Wei",
+      "Si Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models",
+    "authors": [
+      "Fan-Yun Sun",
+      "Weiyu Liu",
+      "Siyi Gu",
+      "Dylan Lim",
+      "Goutam Bhat",
+      "Federico Tombari",
+      "Manling Li",
+      "Nick Haber",
+      "Jiajun Wu"
+    ],
+    "url": null
+  },
+  {
+    "title": "EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models",
+    "authors": [
+      "Yinan Liang",
+      "Ziwei Wang",
+      "Xiuwei Xu",
+      "Jie Zhou",
+      "Jiwen Lu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning",
+    "authors": [
+      "JiHyeok Jung",
+      "EunTae Kim",
+      "SeoYeon Kim",
+      "Joo Ho Lee",
+      "Bumsoo Kim",
+      "Buru Chang"
+    ],
+    "url": null
+  },
+  {
+    "title": "VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models",
+    "authors": [
+      "Lei Li",
+      "wei yuancheng",
+      "Zhihui Xie",
+      "Xuqing Yang",
+      "Yifan Song",
+      "Peiyi Wang",
+      "Chenxin An",
+      "Tianyu Liu",
+      "Sujian Li",
+      "Bill Yuchen Lin",
+      "Lingpeng Kong",
+      "Qi Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models",
+    "authors": [
+      "Jin Wang",
+      "Chenghui Lv",
+      "Xian Li",
+      "Shichao Dong",
+      "Huadong Li",
+      "kelu Yao",
+      "Chao Li",
+      "Wenqi Shao",
+      "Ping Luo"
+    ],
+    "url": null
+  },
+  {
+    "title": "LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant",
+    "authors": [
+      "Wei Li",
+      "Bing Hu",
+      "Rui Shao",
+      "Leyang Shen",
+      "Liqiang Nie"
+    ],
+    "url": null
+  },
+  {
+    "title": "AnyAttack: Targeted Adversarial Attacks on Vision-Language Models Toward Any Images",
+    "authors": [
+      "Jiaming Zhang",
+      "Junhong Ye",
+      "Xingjun Ma",
+      "Yige Li",
+      "Yunfan Yang",
+      "Yunhao Chen",
+      "Jitao Sang",
+      "Dit-Yan Yeung"
+    ],
+    "url": null
+  },
+  {
+    "title": "BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature",
+    "authors": [
+      "Alejandro Lozano",
+      "Min Woo Sun",
+      "James Burgess",
+      "Liangyu Chen",
+      "Jeffrey J Nirschl",
+      "Jeffrey Gu",
+      "Ivan Lopez",
+      "Josiah Aklilu",
+      "Austin Wolfgang Katzer",
+      "Collin Chiu",
+      "Anita Rau",
+      "Xiaohan Wang",
+      "Yuhui Zhang",
+      "Alfred Seunghoon Song",
+      "Robert Tibshirani",
+      "Serena Yeung"
+    ],
+    "url": null
+  },
+  {
+    "title": "VisionZip: Longer is Better but Not Necessary in Vision Language Models",
+    "authors": [
+      "Senqiao Yang",
+      "Yukang Chen",
+      "Zhuotao Tian",
+      "Chengyao Wang",
+      "Jingyao Li",
+      "Bei Yu",
+      "Jiaya Jia"
+    ],
+    "url": null
+  },
+  {
+    "title": "Evaluating generated 3D assets using multiview Large Language Models",
+    "authors": [
+      "Shalini Maiti",
+      "Lourdes Agapito",
+      "Filippos Kokkinos"
+    ],
+    "url": null
+  },
+  {
+    "title": "Adaptive Parameter Selection for Tuning Vision-Language Models",
+    "authors": [
+      "Yi Zhang",
+      "Yi-Xuan Deng",
+      "Meng-Hao Guo",
+      "Shi-Min Hu"
+    ],
+    "url": null
+  },
+  {
+    "title": "FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model",
+    "authors": [
+      "Jun Zhou",
+      "Jiahao Li",
+      "Zunnan Xu",
+      "Hanhui Li",
+      "Yiji Cheng",
+      "Fa-Ting Hong",
+      "Qin Lin",
+      "qinglin lu",
+      "Xiaodan Liang"
+    ],
+    "url": null
+  },
+  {
+    "title": "VELOCITI: Benchmarking Video-Language Compositional Reasoning with Strict Entailment",
+    "authors": [
+      "Darshana Saravanan",
+      "Varun Gupta",
+      "Darshan Singh S",
+      "Zeeshan Khan",
+      "Vineet Gandhi",
+      "Makarand Tapaswi"
+    ],
+    "url": null
+  },
+  {
+    "title": "Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models",
+    "authors": [
+      "Qirui Jiao",
+      "Daoyuan Chen",
+      "Yilun Huang",
+      "Bolin Ding",
+      "Yaliang Li",
+      "Ying Shen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos",
+    "authors": [
+      "Sagnik Majumder",
+      "Tushar Nagarajan",
+      "Ziad Al-Halah",
+      "Reina Pradhan",
+      "Kristen Grauman"
+    ],
+    "url": null
+  },
+  {
+    "title": "CTRL-O: Language-Controllable Object-Centric Visual Representation Learning",
+    "authors": [
+      "Aniket Rajiv Didolkar",
+      "Andrii Zadaianchuk",
+      "Rabiul Awal",
+      "Maximilian Seitzer",
+      "Efstratios Gavves",
+      "Aishwarya Agrawal"
+    ],
+    "url": null
+  },
+  {
+    "title": "SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models",
+    "authors": [
+      "Kevin Miller",
+      "Aditya Gangrade",
+      "Samarth Mishra",
+      "Kate Saenko",
+      "Venkatesh Saligrama"
+    ],
+    "url": null
+  },
+  {
+    "title": "Can Large Vision-Language Models Correct Grounding Errors By Themselves?",
+    "authors": [
+      "Yuan-Hong Liao",
+      "Rafid Mahmood",
+      "Sanja Fidler",
+      "David Acuna"
+    ],
+    "url": null
+  },
+  {
+    "title": "A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models",
+    "authors": [
+      "Yassir Bendou",
+      "Amine Ouasfi",
+      "Vincent Gripon",
+      "Adnane Boukhayma"
+    ],
+    "url": null
+  },
+  {
+    "title": "SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding",
+    "authors": [
+      "Ying Chen",
+      "Guoan Wang",
+      "Yuanfeng Ji",
+      "Yanjun Li",
+      "Jin Ye",
+      "Tianbin Li",
+      "Ming Hu",
+      "Rongshan Yu",
+      "Yu Qiao",
+      "Junjun He"
+    ],
+    "url": null
+  },
+  {
+    "title": "Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation",
+    "authors": [
+      "Shahad Albastaki",
+      "Anabia Sohail",
+      "IYYAKUTTI IYAPPAN GANAPATHI",
+      "Basit Alawode",
+      "Asim Khan",
+      "Sajid Javed",
+      "Naoufel Werghi",
+      "Mohammed Bennamoun",
+      "Arif Mahmood"
+    ],
+    "url": null
+  },
+  {
+    "title": "Hyperbolic Safety-Aware Vision-Language Models",
+    "authors": [
+      "Tobia Poppi",
+      "Tejaswi Kasarla",
+      "Pascal Mettes",
+      "Lorenzo Baraldi",
+      "Rita Cucchiara"
+    ],
+    "url": null
+  },
+  {
+    "title": "Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis",
+    "authors": [
+      "Jiangyong Huang",
+      "Baoxiong Jia",
+      "Yan Wang",
+      "Ziyu Zhu",
+      "Xiongkun Linghu",
+      "Qing Li",
+      "Song-Chun Zhu",
+      "Siyuan Huang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Explaining Domain Shifts in Language: Concept Erasing for Interpretable Image Classification",
+    "authors": [
+      "Zequn Zeng",
+      "Yudi Su",
+      "Jianqiao Sun",
+      "Tiansheng Wen",
+      "Hao Zhang",
+      "Zhengjue Wang",
+      "Bo Chen",
+      "Hongwei Liu",
+      "Jiawei Ma"
+    ],
+    "url": null
+  },
+  {
+    "title": "All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages",
+    "authors": [
+      "Ashmal Vayani",
+      "Dinura Dissanayake",
+      "Hasindri Watawana",
+      "Noor Ahsan",
+      "Nevasini Sasikumar",
+      "Omkar Thawakar",
+      "Henok Biadglign Ademtew",
+      "Yahya Hmaiti",
+      "Amandeep Kumar",
+      "Kartik Kuckreja",
+      "Mykola Maslych",
+      "Wafa Al Ghallabi",
+      "Mihail Minkov Mihaylov",
+      "Chao Qin",
+      "Abdelrahman Shaker",
+      "Mike Zhang",
+      "Mahardika Krisna Ihsani",
+      "Amiel Gian Esplana",
+      "Monil Gokani",
+      "Shachar Mirkin",
+      "Harsh Singh",
+      "Ashay Srivastava",
+      "Endre Hamerlik",
+      "Fathinah Asma Izzati",
+      "Fadillah Adamsyah Maani",
+      "Sebastian Cavada",
+      "Jenny Chim",
+      "Rohit Gupta",
+      "Sanjay Manjunath",
+      "Kamila Zhumakhanova",
+      "Feno Heriniaina Rabevohitra",
+      "Azril Hafizi Amirudin",
+      "Muhammad Ridzuan",
+      "Daniya Najiha Abdul Kareem",
+      "Ketan Pravin More",
+      "Kunyang Li",
+      "Pramesh Shakya",
+      "Muhammad Saad",
+      "Amirpouya Ghasemaghaei",
+      "Amirbek Djanibekov",
+      "Dilshod Azizov",
+      "Branislava Jankovic",
+      "Naman Bhatia",
+      "Alvaro Cabrera Berobide",
+      "Johan Obando-Ceron",
+      "Olympiah Otieno",
+      "Fabian Farestam",
+      "Muztoba Rabbani",
+      "Sanoojan Baliah",
+      "Santosh Sanjeev",
+      "Abduragim Shtanchaev",
+      "Maheen Fatima",
+      "Thao Nguyen",
+      "Amrin Kareem",
+      "Toluwani Aremu",
+      "Nathan Augusto Zacarias Xavier",
+      "Amit Bhatkal",
+      "Hawau Olamide Toyin",
+      "Aman Chadha",
+      "Hisham Cholakkal",
+      "Rao Anwer",
+      "Michael Felsberg",
+      "Jorma Laaksonen",
+      "Thamar Solorio",
+      "Monojit Choudhury",
+      "Ivan Laptev",
+      "Mubarak Shah",
+      "Salman Khan",
+      "Fahad Shahbaz Khan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model",
+    "authors": [
+      "Zhaochong An",
+      "Guolei Sun",
+      "Yun Liu",
+      "Runjia Li",
+      "Junlin Han",
+      "Ender Konukoglu",
+      "Serge Belongie"
+    ],
+    "url": null
+  },
+  {
+    "title": "TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models",
+    "authors": [
+      "Xin Wang",
+      "Kai Chen",
+      "Jiaming Zhang",
+      "Jingjing Chen",
+      "Xingjun Ma"
+    ],
+    "url": null
+  },
+  {
+    "title": "ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models",
+    "authors": [
+      "Yahan Tu",
+      "Rui Hu",
+      "Jitao Sang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking",
+    "authors": [
+      "Hongkai Wei",
+      "YANG YANG",
+      "Shijie Sun",
+      "Mingtao Feng",
+      "Xiangyu Song",
+      "Qi Lei",
+      "Hongli Hu",
+      "Rong Wang",
+      "Huansheng Song",
+      "Naveed Akhtar",
+      "Ajmal Mian"
+    ],
+    "url": null
+  },
+  {
+    "title": "Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models",
+    "authors": [
+      "Ronghuan Wu",
+      "Wanchao Su",
+      "Jing Liao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model",
+    "authors": [
+      "Yuting Zhang",
+      "Hao Lu",
+      "Qingyong Hu",
+      "Yin Wang",
+      "Kaishen Yuan",
+      "Xin Liu",
+      "Kaishun Wu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Hierarchy-Aware Evaluation of Free-Form Predictions From Vision-And-Language Models",
+    "authors": [
+      "V\u00e9steinn Sn\u00e6bjarnarson",
+      "Kevin Du",
+      "Niklas Stoehr",
+      "Serge Belongie",
+      "Ryan Cotterell",
+      "Nico Lang",
+      "Stella Frank"
+    ],
+    "url": null
+  },
+  {
+    "title": "ROD-MLLM: Towards More Reliable Object Detection in Multimodal Large Language Models",
+    "authors": [
+      "Heng Yin",
+      "Yuqiang Ren",
+      "Ke Yan",
+      "Shouhong Ding",
+      "Yongtao Hao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Pose Priors from Language Models",
+    "authors": [
+      "Sanjay Subramanian",
+      "Evonne Ng",
+      "Lea M\u00fcller",
+      "Dan Klein",
+      "Shiry Ginosar",
+      "Trevor Darrell"
+    ],
+    "url": null
+  },
+  {
+    "title": "Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift",
+    "authors": [
+      "Siyuan Liang",
+      "Jiawei Liang",
+      "Tianyu Pang",
+      "Chao Du",
+      "Aishan Liu",
+      "Mingli Zhu",
+      "Xiaochun Cao",
+      "Dacheng Tao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models",
+    "authors": [
+      "Shuyang Hao",
+      "Bryan Hooi",
+      "Jun Liu",
+      "Kai-Wei Chang",
+      "Zi Huang",
+      "Yujun Cai"
+    ],
+    "url": null
+  },
+  {
+    "title": "Language Guided Concept Bottleneck Models for Interpretable Continual Learning",
+    "authors": [
+      "Lu Yu",
+      "HaoYu Han",
+      "Zhe Tao",
+      "Hantao Yao",
+      "Changsheng Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "FastVLM: Efficient Vision Encoding for Vision Language Models",
+    "authors": [
+      "Pavan Vasu Vasu",
+      "Fartash Faghri",
+      "Chun-Liang Li",
+      "Cem Koc",
+      "Nate True",
+      "Gokula Krishnan Santhanam",
+      "Albert Antony",
+      "James Gabriel",
+      "Peter Grasch",
+      "Oncel Tuzel",
+      "Hadi Pouransari"
+    ],
+    "url": null
+  },
+  {
+    "title": "Assessing and Learning Alignment of Unimodal Vision and Language Models",
+    "authors": [
+      "Le Zhang",
+      "Qian Yang",
+      "Aishwarya Agrawal"
+    ],
+    "url": null
+  },
+  {
+    "title": "SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes",
+    "authors": [
+      "Yuji Wang",
+      "Haoran Xu",
+      "Yong Liu",
+      "Jiaze Li",
+      "Yansong Tang"
+    ],
+    "url": null
+  },
+  {
+    "title": "The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion",
+    "authors": [
+      "Changan Chen",
+      "Juze Zhang",
+      "Shrinidhi Kowshika Lakshmikanth",
+      "Yusu Fang",
+      "Ruizhi Shao",
+      "Gordon Wetzstein",
+      "Li Fei-Fei",
+      "Ehsan Adeli"
+    ],
+    "url": null
+  },
+  {
+    "title": "ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large language Models",
+    "authors": [
+      "Hao Yin",
+      "Guangzong Si",
+      "Zilei Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration",
+    "authors": [
+      "JUNSEONG KIM",
+      "GeonU Kim",
+      "Kim Yu-Ji",
+      "Yu-Chiang Frank Wang",
+      "Jaesung Choe",
+      "Tae-Hyun Oh"
+    ],
+    "url": null
+  },
+  {
+    "title": "Realistic Test-Time Adaptation of Vision-Language Models",
+    "authors": [
+      "Maxime Zanella",
+      "Cl\u00e9ment Fuchs",
+      "Christophe De Vleeschouwer",
+      "Ismail Ben Ayed"
+    ],
+    "url": null
+  },
+  {
+    "title": "Perception Tokens Enhance Visual Reasoning in Multimodal Language Models",
+    "authors": [
+      "Mahtab Bigverdi",
+      "Zelun Luo",
+      "Cheng-Yu Hsieh",
+      "Ethan Shen",
+      "Dongping Chen",
+      "Linda Shapiro",
+      "Ranjay Krishna"
+    ],
+    "url": null
+  },
+  {
+    "title": "EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions",
+    "authors": [
+      "Kai Chen",
+      "Yunhao Gou",
+      "Runhui Huang",
+      "Zhili Liu",
+      "Daxin Tan",
+      "Jing Xu",
+      "Chunwei Wang",
+      "Yi Zhu",
+      "yihan zeng",
+      "Kuo Yang",
+      "Dingdong WANG",
+      "Kun Xiang",
+      "Haoyuan Li",
+      "Haoli Bai",
+      "Jianhua Han",
+      "Xiao-Hui Li",
+      "Weike Jin",
+      "Nian Xie",
+      "Yu Zhang",
+      "James Kwok",
+      "Hengshuang Zhao",
+      "Xiaodan Liang",
+      "Dit-Yan Yeung",
+      "Xiao Chen",
+      "Zhenguo Li",
+      "Wei Zhang",
+      "Qun Liu",
+      "Lanqing Hong",
+      "Lu Hou",
+      "Hang Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Cropper: Vision-Language Model for Image Cropping through In-Context Learning",
+    "authors": [
+      "Seung Hyun Lee",
+      "Jijun jiang",
+      "Yiran Xu",
+      "Zhuofang Li",
+      "Junjie Ke",
+      "Yinxiao Li",
+      "Junfeng He",
+      "Steven Hickson",
+      "Katie Datsenko",
+      "Sangpil Kim",
+      "Ming-Hsuan Yang",
+      "Irfan Essa",
+      "Feng Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Language-Guided Image Tokenization for Generation",
+    "authors": [
+      "Kaiwen Zha",
+      "Lijun Yu",
+      "Alireza Fathi",
+      "David A. Ross",
+      "Cordelia Schmid",
+      "Dina Katabi",
+      "Xiuye Gu"
+    ],
+    "url": null
+  },
+  {
+    "title": "PAVE: Patching and Adapting Video Large Language Models",
+    "authors": [
+      "Zhuoming Liu",
+      "Yiquan Li",
+      "Khoi D Nguyen",
+      "Yiwu Zhong",
+      "Yin Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "RoboGround: Robot Manipulation with Grounded Vision-Language Priors",
+    "authors": [
+      "Haifeng Huang",
+      "Xinyi Chen",
+      "Yilun Chen",
+      "Hao Li",
+      "Xiaoshen Han",
+      "zehan wang",
+      "Tai Wang",
+      "Jiangmiao Pang",
+      "Zhou Zhao"
+    ],
+    "url": null
+  },
+  {
+    "title": "SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language",
+    "authors": [
+      "zehan wang",
+      "Sashuai zhou",
+      "Shaoxuan He",
+      "Haifeng Huang",
+      "Lihe Yang",
+      "Ziang Zhang",
+      "Xize Cheng",
+      "Shengpeng Ji",
+      "Tao Jin",
+      "Hengshuang Zhao",
+      "Zhou Zhao"
+    ],
+    "url": null
+  },
+  {
+    "title": "What\u2019s in the Image? A Deep-Dive into the Vision of Vision Language Models",
+    "authors": [
+      "Omri Kaduri",
+      "Shai Bagon",
+      "Tali Dekel"
+    ],
+    "url": null
+  },
+  {
+    "title": "HSI-GPT: A General-Purpose Large Scene-Motion-Language Model for Human Scene Interaction",
+    "authors": [
+      "Yuan Wang",
+      "Yali Li",
+      "Lixiang Li",
+      "Shengjin Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Post-pre-training for Modality Alignment in Vision-Language Foundation Models",
+    "authors": [
+      "Shin'ya Yamaguchi",
+      "Dewei Feng",
+      "Sekitoshi Kanai",
+      "Kazuki Adachi",
+      "Daiki Chijiwa"
+    ],
+    "url": null
+  },
+  {
+    "title": "Reproducible Vision-Language Models Meet Concepts Out of Pre-Training",
+    "authors": [
+      "Ziliang Chen",
+      "Xin Huang",
+      "Xiaoxuan Fan",
+      "Keze Wang",
+      "Yuyu Zhou",
+      "Quanlong Guan",
+      "Liang Lin"
+    ],
+    "url": null
+  },
+  {
+    "title": "MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation",
+    "authors": [
+      "Zhenyu Wu",
+      "Yuheng Zhou",
+      "Xiuwei Xu",
+      "Ziwei Wang",
+      "Haibin Yan"
+    ],
+    "url": null
+  },
+  {
+    "title": "CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering",
+    "authors": [
+      "Tianyu Huai",
+      "Jie Zhou",
+      "Xingjiao Wu",
+      "Qin Chen",
+      "Qingchun Bai",
+      "Zezhou",
+      "Liang He"
+    ],
+    "url": null
+  },
+  {
+    "title": "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",
+    "authors": [
+      "Qingqing Zhao",
+      "Yao Lu",
+      "Moo Jin Kim",
+      "Zipeng Fu",
+      "Zhuoyang Zhang",
+      "Yecheng Wu",
+      "Max Li",
+      "Qianli Ma",
+      "Song Han",
+      "Chelsea Finn",
+      "Ankur Handa",
+      "Tsung-Yi Lin",
+      "Gordon Wetzstein",
+      "Ming-Yu Liu",
+      "Donglai Xiang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Vision Language Models For Extra-Long Video Understanding",
+    "authors": [
+      "Yan Shu",
+      "Zheng Liu",
+      "Peitian Zhang",
+      "Minghao Qin",
+      "Junjie Zhou",
+      "Zhengyang Liang",
+      "Tiejun Huang",
+      "Bo Zhao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention",
+    "authors": [
+      "Wenbin An",
+      "Feng Tian",
+      "Sicong Leng",
+      "Jiahao Nie",
+      "Haonan Lin",
+      "QianYing Wang",
+      "Ping Chen",
+      "Xiaoqin Zhang",
+      "Shijian Lu"
+    ],
+    "url": null
+  },
+  {
+    "title": "FLAME: Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training",
+    "authors": [
+      "Anjia Cao",
+      "Xing Wei",
+      "Zhiheng Ma"
+    ],
+    "url": null
+  },
+  {
+    "title": "TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model",
+    "authors": [
+      "Cheng Yang",
+      "Yang Sui",
+      "Jinqi Xiao",
+      "Lingyi Huang",
+      "Yu Gong",
+      "Chendi Li",
+      "Jinghua Yan",
+      "Yu Bai",
+      "Ponnuswamy Sadayappan",
+      "Xia Hu",
+      "Bo Yuan"
+    ],
+    "url": null
+  },
+  {
+    "title": "DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment",
+    "authors": [
+      "Dahyun Kang",
+      "Piotr Bojanowski",
+      "Huy V. Vo",
+      "Th\u00e9o Moutakanni",
+      "Cijo Jose",
+      "Federico Baldassarre",
+      "Patrick Labatut",
+      "Michael Ramamonjisoa",
+      "Maxime Oquab",
+      "Timoth\u00e9e Darcet",
+      "Hu Xu",
+      "Shang-Wen Li",
+      "Oriane Simeoni",
+      "Marc Szafraniec"
+    ],
+    "url": null
+  },
+  {
+    "title": "DocLayLLM: An Efficient Multi-modal Extension of Large Language Models for Text-rich Document Understanding",
+    "authors": [
+      "Wenhui Liao",
+      "Jiapeng Wang",
+      "Hongliang Li",
+      "Chengyu Wang",
+      "Jun Huang",
+      "Lianwen Jin"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Understanding How Knowledge Evolves in Large Vision-Language Models",
+    "authors": [
+      "Sudong Wang",
+      "Yunjian Zhang",
+      "Yao Zhu",
+      "Jianing Li",
+      "Zizhe Wang",
+      "Yanwei Liu",
+      "Xiangyang Ji"
+    ],
+    "url": null
+  },
+  {
+    "title": "Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability",
+    "authors": [
+      "Jianyang Zhang",
+      "Qianli Luo",
+      "Guowu Yang",
+      "Wenjing Yang",
+      "Weide Liu",
+      "Guosheng Lin",
+      "Fengmao Lv"
+    ],
+    "url": null
+  },
+  {
+    "title": "O-TPT: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in Vision-Language Models",
+    "authors": [
+      "Ashshak Sharifdeen",
+      "Muhammad Akhtar Munir",
+      "Sanoojan Baliah",
+      "Salman Khan",
+      "Muhammad Haris Khan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages",
+    "authors": [
+      "Matteo Farina",
+      "Massimiliano Mancini",
+      "Giovanni Iacca",
+      "Elisa Ricci"
+    ],
+    "url": null
+  },
+  {
+    "title": "Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models",
+    "authors": [
+      "Davide Berasi",
+      "Matteo Farina",
+      "Massimiliano Mancini",
+      "Elisa Ricci",
+      "Nicola Strisciuglio"
+    ],
+    "url": null
+  },
+  {
+    "title": "SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining",
+    "authors": [
+      "Mingjin Zhang",
+      "Xiaolong Li",
+      "Fei Gao",
+      "Jie Guo",
+      "Xinbo Gao",
+      "Jing Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Task Preference Optimization: Improving Multimodal Large Language Models Performance with Vision Task Alignment",
+    "authors": [
+      "ziang yan",
+      "Zhilin Li",
+      "Yinan He",
+      "Chenting Wang",
+      "Kunchang Li",
+      "Xinhao Li",
+      "Xiangyu Zeng",
+      "Zilei Wang",
+      "Yali Wang",
+      "Yu Qiao",
+      "Limin Wang",
+      "Yi Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion",
+    "authors": [
+      "Jiuhai Chen",
+      "Jianwei Yang",
+      "Haiping Wu",
+      "Dianqi Li",
+      "Jianfeng Gao",
+      "Tianyi Zhou",
+      "Bin Xiao"
+    ],
+    "url": null
+  },
+  {
+    "title": "COSMOS: Cross-Modality Self-Distillation for Vision Language Pretraining",
+    "authors": [
+      "Sanghwan Kim",
+      "Rui Xiao",
+      "Iuliana Georgescu",
+      "Stephan Alaniz",
+      "Zeynep Akata"
+    ],
+    "url": null
+  },
+  {
+    "title": "FLAIR: VLM with Fine-grained Language-informed Image Representations",
+    "authors": [
+      "Rui Xiao",
+      "Sanghwan Kim",
+      "Iuliana Georgescu",
+      "Zeynep Akata",
+      "Stephan Alaniz"
+    ],
+    "url": null
+  },
+  {
+    "title": "Ges3ViG : Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding",
+    "authors": [
+      "Atharv Mahesh Mane",
+      "Dulanga Weerakoon",
+      "Vigneshwaran Subbaraju",
+      "Sougata Sen",
+      "Sanjay Sarma",
+      "Archan Misra"
+    ],
+    "url": null
+  },
+  {
+    "title": "Embodied Scene Understanding for Vision Language Models via MetaVQA",
+    "authors": [
+      "Weizhen Wang",
+      "Chenda Duan",
+      "Zhenghao Peng",
+      "Yuxin Liu",
+      "Bolei Zhou"
+    ],
+    "url": null
+  },
+  {
+    "title": "Libra-Merging: Importance-redundancy and Pruning-merging Trade-off for Acceleration Plug-in in Large Vision-Language Model",
+    "authors": [
+      "Longrong Yang",
+      "Dong Shen",
+      "Chaoxiang Cai",
+      "Kaibing Chen",
+      "Fan Yang",
+      "Tingting Gao",
+      "Di ZHANG",
+      "Xi Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Synthetic Data is an Elegant GIFT for Continual Vision-Language Models",
+    "authors": [
+      "Bin Wu",
+      "Wuxuan Shi",
+      "Jinqiao Wang",
+      "Mang Ye"
+    ],
+    "url": null
+  },
+  {
+    "title": "Vision-Language Embodiment for Monocular Depth Estimation",
+    "authors": [
+      "Jinchang Zhang",
+      "Guoyu Lu"
+    ],
+    "url": null
+  },
+  {
+    "title": "SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation",
+    "authors": [
+      "Hritam Basak",
+      "Zhaozheng Yin"
+    ],
+    "url": null
+  },
+  {
+    "title": "Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data",
+    "authors": [
+      "Haoxin Li",
+      "Boyang Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization",
+    "authors": [
+      "zefeng zhang",
+      "Hengzhu Tang",
+      "Jiawei Sheng",
+      "Zhenyu Zhang",
+      "YiMing Ren",
+      "Zhenyang Li",
+      "Dawei Yin",
+      "Duohe Ma",
+      "Tingwen Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models",
+    "authors": [
+      "Zhaoyi Liu",
+      "Huan Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens",
+    "authors": [
+      "Zhangqi Jiang",
+      "Junkai Chen",
+      "Beier Zhu",
+      "Tingjin Luo",
+      "Yankun Shen",
+      "Xu Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection",
+    "authors": [
+      "Divya Velayudhan",
+      "Abdelfatah Ahmed",
+      "Mohamad Alansari",
+      "Neha Gour",
+      "Abderaouf Behouch",
+      "Taimur Hassan",
+      "Syed Talal Wasim",
+      "Nabil Maalej",
+      "Muzammal Naseer",
+      "J\u00fcrgen Gall",
+      "Mohammed Bennamoun",
+      "Ernesto Damiani",
+      "Naoufel Werghi"
+    ],
+    "url": null
+  },
+  {
+    "title": "Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation",
+    "authors": [
+      "Xiaoqi Li",
+      "Lingyun Xu",
+      "Mingxu Zhang",
+      "Jiaming Liu",
+      "Yan Shen",
+      "Iaroslav Ponomarenko",
+      "Jiahui Xu",
+      "Liang Heng",
+      "Siyuan Huang",
+      "Shanghang Zhang",
+      "Hao Dong"
+    ],
+    "url": null
+  },
+  {
+    "title": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models",
+    "authors": [
+      "Matt Deitke",
+      "Christopher Clark",
+      "Sangho Lee",
+      "Rohun Tripathi",
+      "Yue Yang",
+      "Jae Sung Park",
+      "Reza Salehi",
+      "Niklas Muennighoff",
+      "Kyle Lo",
+      "Luca Soldaini",
+      "Jiasen Lu",
+      "Taira Anderson",
+      "Erin Bransom",
+      "Kiana Ehsani",
+      "Huong Ngo",
+      "Yen-Sung Chen",
+      "Ajay Patel",
+      "Mark Yatskar",
+      "Chris Callison-Burch",
+      "Andrew Head",
+      "Rose Hendrix",
+      "Favyen Bastani",
+      "Eli VanderBilt",
+      "Nathan Lambert",
+      "Yvonne Chou",
+      "Arnavi Chheda-Kothary",
+      "Jenna Sparks",
+      "Sam Skjonsberg",
+      "Michael Schmitz",
+      "Aaron Sarnat",
+      "Byron Bischoff",
+      "Pete Walsh",
+      "Christopher Newell",
+      "Piper Wolters",
+      "Tanmay Gupta",
+      "Kuo-Hao Zeng",
+      "Jon Borchardt",
+      "Dirk Groeneveld",
+      "Crystal Nam",
+      "Sophie Lebrecht",
+      "Caitlin Wittlif",
+      "Carissa Schoenick",
+      "Oscar Michel",
+      "Ranjay Krishna",
+      "Luca Weihs",
+      "Noah A. Smith",
+      "Hannaneh Hajishirzi",
+      "Ross Girshick",
+      "Ali Farhadi",
+      "Aniruddha Kembhavi"
+    ],
+    "url": null
+  },
+  {
+    "title": "Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models",
+    "authors": [
+      "Jinhui Yi",
+      "Syed Talal Wasim",
+      "Yanan Luo",
+      "Muzammal Naseer",
+      "J\u00fcrgen Gall"
+    ],
+    "url": null
+  },
+  {
+    "title": "AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization",
+    "authors": [
+      "Yiyang Du",
+      "Xiaochen Wang",
+      "Chi Chen",
+      "Jiabo Ye",
+      "Yiru Wang",
+      "Peng Li",
+      "Ming Yan",
+      "Ji Zhang",
+      "Fei Huang",
+      "Zhifang Sui",
+      "Maosong Sun",
+      "Yang Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression",
+    "authors": [
+      "Bo Tong",
+      "Bokai Lai",
+      "Yiyi Zhou",
+      "Gen Luo",
+      "Yunhang Shen",
+      "Ke Li",
+      "Xiaoshuai Sun",
+      "Rongrong Ji"
+    ],
+    "url": null
+  },
+  {
+    "title": "VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models",
+    "authors": [
+      "Byung-Kwan Lee",
+      "Ryo Hachiuma",
+      "Yu-Chiang Frank Wang",
+      "Yong Man Ro",
+      "Yueh-Hua Wu"
+    ],
+    "url": null
+  },
+  {
+    "title": "SceneTAP: Scene-Coherent Typographic Adversarial Planner against Vision-Language Models in Real-World Environments",
+    "authors": [
+      "Yue Cao",
+      "Yun Xing",
+      "Jie Zhang",
+      "Di Lin",
+      "Tianwei Zhang",
+      "Ivor Tsang",
+      "Yang Liu",
+      "Qing Guo"
+    ],
+    "url": null
+  },
+  {
+    "title": "Task-aware Cross-modal Feature Refinement Transformer with Large Language Models for Visual Grounding",
+    "authors": [
+      "Wenbo Chen",
+      "Zhen Xu",
+      "Ruotao Xu",
+      "Si Wu",
+      "Hau San Wong"
+    ],
+    "url": null
+  },
+  {
+    "title": "MedUnifier: Unifying Vision-and-Language Pre-training on Medical Data with Vision Generation Task using Discrete Visual Representations",
+    "authors": [
+      "Ziyang Zhang",
+      "Yang Yu",
+      "Yucheng Chen",
+      "Xulei Yang",
+      "Si Yong Yeo"
+    ],
+    "url": null
+  },
+  {
+    "title": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+    "authors": [
+      "Chan Hee Song",
+      "Valts Blukis",
+      "Jonathan Tremblay",
+      "Stephen Tyree",
+      "Yu Su",
+      "Stan Birchfield"
+    ],
+    "url": null
+  },
+  {
+    "title": "DH-Set: Improving Vision-Language Alignment with Diverse and Hybrid Set-Embeddings Learning",
+    "authors": [
+      "Kun Zhang",
+      "Jingyu Li",
+      "Zhe Li",
+      "S Kevin Zhou"
+    ],
+    "url": null
+  },
+  {
+    "title": "BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models",
+    "authors": [
+      "Zenghui Yuan",
+      "Jiawen Shi",
+      "Pan Zhou",
+      "Neil Zhenqiang Gong",
+      "Lichao Sun"
+    ],
+    "url": null
+  },
+  {
+    "title": "Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection",
+    "authors": [
+      "Le Yang",
+      "Ziwei Zheng",
+      "Boxu Chen",
+      "Zhengyu Zhao",
+      "Chenhao Lin",
+      "Chao Shen"
+    ],
+    "url": null
+  },
+  {
+    "title": "ChatGarment: Garment Estimation, Generation and Editing via Large Language Models",
+    "authors": [
+      "Siyuan Bian",
+      "Chenghao Xu",
+      "Yuliang Xiu",
+      "Artur Grigorev",
+      "Zhen Liu",
+      "Cewu Lu",
+      "Michael J. Black",
+      "Yao Feng"
+    ],
+    "url": null
+  },
+  {
+    "title": "SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model",
+    "authors": [
+      "Yongting Zhang",
+      "Lu Chen",
+      "Guodong Zheng",
+      "Yifeng Gao",
+      "Rui Zheng",
+      "Jinlan Fu",
+      "Zhenfei Yin",
+      "Senjie Jin",
+      "Yu Qiao",
+      "Xuanjing Huang",
+      "Feng Zhao",
+      "Tao Gui",
+      "Jing Shao"
+    ],
+    "url": null
+  },
+  {
+    "title": "LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models",
+    "authors": [
+      "Shenghao Fu",
+      "Qize Yang",
+      "Qijie Mo",
+      "Junkai Yan",
+      "Xihan Wei",
+      "Jingke Meng",
+      "Xiaohua Xie",
+      "Wei-Shi Zheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning",
+    "authors": [
+      "Lijun Sheng",
+      "Jian Liang",
+      "Zilei Wang",
+      "Ran He"
+    ],
+    "url": null
+  },
+  {
+    "title": "GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks",
+    "authors": [
+      "Haoqiang Kang",
+      "Enna Sachdeva",
+      "Piyush Gupta",
+      "Sangjae Bae",
+      "Kwonjoon Lee"
+    ],
+    "url": null
+  },
+  {
+    "title": "Empowering Large Language Models with 3D Situation Awareness",
+    "authors": [
+      "Zhihao Yuan",
+      "Yibo Peng",
+      "Jinke Ren",
+      "Yinghong Liao",
+      "Yatong Han",
+      "Chun-Mei Feng",
+      "Hengshuang Zhao",
+      "Guanbin Li",
+      "Shuguang Cui",
+      "Zhen Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output",
+    "authors": [
+      "Yanyuan Chen",
+      "Dexuan Xu",
+      "Yu Huang",
+      "ZhanSongkun",
+      "Hanpin Wang",
+      "Dongxue Chen",
+      "Xueping Wang",
+      "Meikang Qiu",
+      "Hang Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction",
+    "authors": [
+      "Shiyu Zhao",
+      "Zhenting Wang",
+      "Felix Juefei-Xu",
+      "Xide Xia",
+      "Miao Liu",
+      "Xiaofang Wang",
+      "Mingfu Liang",
+      "Ning Zhang",
+      "Dimitris N. Metaxas",
+      "Licheng Yu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model",
+    "authors": [
+      "Ziyuan Yang",
+      "Yingyu Chen",
+      "Zhiwen Wang",
+      "Hongming Shan",
+      "Yang Chen",
+      "Yi Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "ResCLIP: Residual Attention for Training-free Dense Vision-language Inference",
+    "authors": [
+      "Jinhong Deng",
+      "Yuhang Yang",
+      "Wen Li",
+      "Lixin Duan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training",
+    "authors": [
+      "Gen Luo",
+      "Xue Yang",
+      "Wenhan Dou",
+      "Zhaokai Wang",
+      "Jiawen Liu",
+      "Jifeng Dai",
+      "Yu Qiao",
+      "Xizhou Zhu"
+    ],
+    "url": null
+  },
+  {
+    "title": "ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models",
+    "authors": [
+      "Xubing Ye",
+      "Yukang Gan",
+      "Yixiao Ge",
+      "Xiao-Ping Zhang",
+      "Yansong Tang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Efficient Transfer Learning for Video-language Foundation Models",
+    "authors": [
+      "Haoxing Chen",
+      "Zizheng Huang",
+      "Yan Hong",
+      "YANSHUO WANG",
+      "Zhongcai Lyu",
+      "Zhuoer Xu",
+      "Jun Lan",
+      "Zhangxuan Gu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Language-Guided Audio-Visual Learning for Long-Term Sports Assessment",
+    "authors": [
+      "Huangbiao Xu",
+      "Xiao Ke",
+      "Huanqi Wu",
+      "Rui Xu",
+      "Yuezhou Li",
+      "Wenzhong Guo"
+    ],
+    "url": null
+  },
+  {
+    "title": "Video Language Model Pretraining with Spatio-temporal Masking",
+    "authors": [
+      "Yue Wu",
+      "Zhaobo Qi",
+      "Junshu Sun",
+      "Yaowei Wang",
+      "Qingming Huang",
+      "Shuhui Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding",
+    "authors": [
+      "Seil Kang",
+      "Jinyeong Kim",
+      "Junhyeok Kim",
+      "Seong Jae Hwang"
+    ],
+    "url": null
+  },
+  {
+    "title": "VideoChat-Online: Towards Online Spatial-Temporal Video Understanding via Large Video Language Models",
+    "authors": [
+      "Zhenpeng Huang",
+      "Xinhao Li",
+      "Jiaqi Li",
+      "Jing Wang",
+      "Xiangyu Zeng",
+      "Cheng Liang",
+      "Tao Wu",
+      "Xi Chen",
+      "Liang Li",
+      "Limin Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Advancing Myopia To Holism: Fully Contrastive Language\u2013Image Pre-training",
+    "authors": [
+      "Haicheng Wang",
+      "Chen Ju",
+      "Weixiong Lin",
+      "Mengting Chen",
+      "Shuai Xiao",
+      "Yixuan Huang",
+      "Chang Liu",
+      "mingshuai Yao",
+      "Jinsong Lan",
+      "Ying Chen",
+      "Qingwen Liu",
+      "Yanfeng Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "COUNTS: Benchmarking Object Detectors and Multimodal Large Language Models under Distribution Shifts",
+    "authors": [
+      "Jiansheng Li",
+      "Xingxuan Zhang",
+      "Hao Zou",
+      "Yige Guo",
+      "Renzhe Xu",
+      "Yilong Liu",
+      "Chuzhao Zhu",
+      "Yue He",
+      "Peng Cui"
+    ],
+    "url": null
+  },
+  {
+    "title": "BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding",
+    "authors": [
+      "Shuming Liu",
+      "Chen Zhao",
+      "Tianqi Xu",
+      "Bernard Ghanem"
+    ],
+    "url": null
+  },
+  {
+    "title": "Self-Evolving Visual Concept Library using Vision-Language Critics",
+    "authors": [
+      "Atharva Sehgal",
+      "Patrick Yuan",
+      "Ziniu Hu",
+      "Yisong Yue",
+      "Jennifer J. Sun",
+      "Swarat Chaudhuri"
+    ],
+    "url": null
+  },
+  {
+    "title": "DTOS: Dynamic Time Object Sensing with Multimodal Large Language Model",
+    "authors": [
+      "Jirui Tian",
+      "Jinrong Zhang",
+      "Shenglan Liu",
+      "Luhao Xu",
+      "Zhixiong Huang",
+      "Gao Huang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Bridging Gait Recognition and Large Language Models Sequence Modeling",
+    "authors": [
+      "Shaopeng Yang",
+      "Jilong Wang",
+      "Saihui Hou",
+      "Xu Liu",
+      "Chunshui Cao",
+      "Liang Wang",
+      "Yongzhen Huang"
+    ],
+    "url": null
+  },
+  {
+    "title": "SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters",
+    "authors": [
+      "Jianping Jiang",
+      "Weiye Xiao",
+      "Zhengyu Lin",
+      "Huaizhong Zhang",
+      "Tianxiang Ren",
+      "Yang Gao",
+      "Zhiqian Lin",
+      "Zhongang Cai",
+      "Lei Yang",
+      "Ziwei Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Bayesian Test-Time Adaptation for Vision-Language Models",
+    "authors": [
+      "Lihua Zhou",
+      "Mao Ye",
+      "Shuaifeng Li",
+      "Nianxin Li",
+      "Xiatian Zhu",
+      "Lei Deng",
+      "Hongbin Liu",
+      "Zhen Lei"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models",
+    "authors": [
+      "Jiacong Xu",
+      "Shao-Yuan Lo",
+      "Bardia Safaei",
+      "Vishal M. Patel",
+      "Isht Dwivedi"
+    ],
+    "url": null
+  },
+  {
+    "title": "PARC: A Quantitative Framework Uncovering the Symmetries within Vision Language Models",
+    "authors": [
+      "Jenny Schmalfuss",
+      "Nadine Chang",
+      "Vibashan VS",
+      "Maying Shen",
+      "Andr\u00e9s Bruhn",
+      "Jose M. Alvarez"
+    ],
+    "url": null
+  },
+  {
+    "title": "Vision-Language Models Do Not Understand Negation",
+    "authors": [
+      "Kumail Alhamoud",
+      "Shaden Alshammari",
+      "Yonglong Tian",
+      "Guohao Li",
+      "Philip H.S. Torr",
+      "Yoon Kim",
+      "Marzyeh Ghassemi"
+    ],
+    "url": null
+  },
+  {
+    "title": "Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations",
+    "authors": [
+      "Shengeng Tang",
+      "Jiayi He",
+      "Lechao Cheng",
+      "Jingjing Wu",
+      "Dan Guo",
+      "Richang Hong"
+    ],
+    "url": null
+  },
+  {
+    "title": "Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning",
+    "authors": [
+      "Fan Lu",
+      "Wei Wu",
+      "Kecheng Zheng",
+      "Shuailei Ma",
+      "Biao Gong",
+      "Jiawei Liu",
+      "Wei Zhai",
+      "Yang Cao",
+      "Yujun Shen",
+      "Zheng-Jun Zha"
+    ],
+    "url": null
+  },
+  {
+    "title": "MBQ: Modality-Balanced Quantization for Large Vision-Language Models",
+    "authors": [
+      "Shiyao Li",
+      "Yingchun Hu",
+      "Xuefei Ning",
+      "Xihui Liu",
+      "Ke Hong",
+      "xiaotao jia",
+      "Xiuhong Li",
+      "Yaqi Yan",
+      "PEI RAN",
+      "Guohao Dai",
+      "Shengen Yan",
+      "Huazhong Yang",
+      "Yu Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models",
+    "authors": [
+      "Zhihang Liu",
+      "Chen-Wei Xie",
+      "Pandeng Li",
+      "Liming Zhao",
+      "Longxiang Tang",
+      "Yun Zheng",
+      "Chuanbin Liu",
+      "Hongtao Xie"
+    ],
+    "url": null
+  },
+  {
+    "title": "DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models",
+    "authors": [
+      "Keda TAO",
+      "Can Qin",
+      "Haoxuan You",
+      "Yang Sui",
+      "Huan Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Semantic and Expressive Variations in Image Captions Across Languages",
+    "authors": [
+      "Andre Ye",
+      "Sebastin Santy",
+      "Jena D. Hwang",
+      "Amy X Zhang",
+      "Ranjay Krishna"
+    ],
+    "url": null
+  },
+  {
+    "title": "The Scene Language: Representing Scenes with Programs, Words, and Embeddings",
+    "authors": [
+      "Yunzhi Zhang",
+      "Zizhang Li",
+      "Matt Zhou",
+      "Shangzhe Wu",
+      "Jiajun Wu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Cross-modal Information Flow in Multimodal Large Language Models",
+    "authors": [
+      "Zhi Zhang",
+      "Srishti Yadav",
+      "Fengze Han",
+      "Ekaterina Shutova"
+    ],
+    "url": null
+  },
+  {
+    "title": "Thinking in Space: How Multimodal Large Language Models See, Remember and Recall Spaces",
+    "authors": [
+      "Jihan Yang",
+      "Shusheng Yang",
+      "Anjali W. Gupta",
+      "Rilyn Han",
+      "Li Fei-Fei",
+      "Saining Xie"
+    ],
+    "url": null
+  },
+  {
+    "title": "SketchAgent: Language-Driven Sequential Sketch Generation",
+    "authors": [
+      "Yael Vinker",
+      "Tamar Rott Shaham",
+      "Kristine Zheng",
+      "Alex Zhao",
+      "Judith Fan",
+      "Antonio Torralba"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method",
+    "authors": [
+      "Xinshuai Song",
+      "weixing chen",
+      "Yang Liu",
+      "Weikai Chen",
+      "Guanbin Li",
+      "Liang Lin"
+    ],
+    "url": null
+  },
+  {
+    "title": "DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving",
+    "authors": [
+      "Zhenhua Xu",
+      "Yan Bai",
+      "Yujia Zhang",
+      "Zhuoling Li",
+      "Fei Xia",
+      "Kwan-Yee K. Wong",
+      "Jianqiang Wang",
+      "Hengshuang Zhao"
+    ],
+    "url": null
+  },
+  {
+    "title": "HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models",
+    "authors": [
+      "Runhui Huang",
+      "Xinpeng Ding",
+      "Chunwei Wang",
+      "Jianhua Han",
+      "Yulong Liu",
+      "Hengshuang Zhao",
+      "Hang Xu",
+      "Lu Hou",
+      "Wei Zhang",
+      "Xiaodan Liang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Seeing the Abstract: Translating the Abstract Language for Vision Language Models",
+    "authors": [
+      "Davide Talon",
+      "Federico Girella",
+      "Ziyue Liu",
+      "Marco Cristani",
+      "Yiming Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark",
+    "authors": [
+      "Hao Guo",
+      "Xugong Qin",
+      "Jun Jie Ou Yang",
+      "peng zhang",
+      "Gangyan Zeng",
+      "Yubo Li",
+      "Hailun Lin"
+    ],
+    "url": null
+  },
+  {
+    "title": "HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models",
+    "authors": [
+      "Mingzhen Huang",
+      "Fu-Jen Chu",
+      "Bugra Tekin",
+      "Kevin Liang",
+      "Haoyu Ma",
+      "Weiyao Wang",
+      "Xingyu Chen",
+      "Pierre Gleize",
+      "Hongfei Xue",
+      "Siwei Lyu",
+      "Kris Kitani",
+      "Matt Feiszli",
+      "Hao Tang"
+    ],
+    "url": null
+  },
+  {
+    "title": "SimLingo: Vision-only Closed-Loop Autonomous Driving with Grounded Language Understanding",
+    "authors": [
+      "Katrin Renz",
+      "Long Chen",
+      "Elahe Arani",
+      "Oleg Sinavski"
+    ],
+    "url": null
+  },
+  {
+    "title": "DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models",
+    "authors": [
+      "Haoyang Li",
+      "Liang Wang",
+      "Chao Wang",
+      "Jing Jiang",
+      "Yan Peng",
+      "Guodong Long"
+    ],
+    "url": null
+  },
+  {
+    "title": "Perceptive 3D language assistant",
+    "authors": [
+      "Guofeng Mei",
+      "Wei Lin",
+      "Luigi Riz",
+      "Yujiao Wu",
+      "Fabio Poiesi",
+      "Yiming Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "MMRL: Multi-Modal Representation Learning for Vision-Language Models",
+    "authors": [
+      "Yuncheng Guo",
+      "Xiaodong Gu"
+    ],
+    "url": null
+  },
+  {
+    "title": "VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary",
+    "authors": [
+      "Kevin Qinghong Lin",
+      "Mike Zheng Shou"
+    ],
+    "url": null
+  },
+  {
+    "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
+    "authors": [
+      "Kevin Qinghong Lin",
+      "Linjie Li",
+      "Difei Gao",
+      "Zhengyuan Yang",
+      "Shiwei Wu",
+      "Zechen Bai",
+      "Stan Weixian Lei",
+      "Lijuan Wang",
+      "Mike Zheng Shou"
+    ],
+    "url": null
+  },
+  {
+    "title": "On the Consistency of Video Large Language Models in Temporal Comprehension",
+    "authors": [
+      "Minjoon Jung",
+      "Junbin Xiao",
+      "Byoung-Tak Zhang",
+      "Angela Yao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Distilling Multi-modal Large Language Models for Autonomous Driving",
+    "authors": [
+      "Deepti Hegde",
+      "Rajeev Yasarla",
+      "Hong Cai",
+      "Shizhong Han",
+      "Apratim Bhattacharyya",
+      "Shweta Mahajan",
+      "Litian Liu",
+      "Risheek Garrepalli",
+      "Vishal M. Patel",
+      "Fatih Porikli"
+    ],
+    "url": null
+  },
+  {
+    "title": "Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?",
+    "authors": [
+      "Yanbo Wang",
+      "Jiyang Guan",
+      "Jian Liang",
+      "Ran He"
+    ],
+    "url": null
+  },
+  {
+    "title": "MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models",
+    "authors": [
+      "Wenyi Hong",
+      "Yean Cheng",
+      "Zhuoyi Yang",
+      "Weihan Wang",
+      "Lefan Wang",
+      "Xiaotao Gu",
+      "Shiyu Huang",
+      "Yuxiao Dong",
+      "Jie Tang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Video Summarization with Large Language Models",
+    "authors": [
+      "Min Jung Lee",
+      "Dayoung Gong",
+      "Minsu Cho"
+    ],
+    "url": null
+  },
+  {
+    "title": "Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language",
+    "authors": [
+      "Yicheng Chen",
+      "Xiangtai Li",
+      "Yining Li",
+      "Yanhong Zeng",
+      "Jianzong Wu",
+      "Xiangyu Zhao",
+      "Kai Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Document Haystacks:  Vision-Language Reasoning Over Piles of 1000+ Documents",
+    "authors": [
+      "Jun Chen",
+      "Dannong Xu",
+      "Junjie Fei",
+      "Chun-Mei Feng",
+      "Mohamed Elhoseiny"
+    ],
+    "url": null
+  },
+  {
+    "title": "VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge",
+    "authors": [
+      "Vishwesh Nath",
+      "Wenqi Li",
+      "Dong Yang",
+      "Andriy Myronenko",
+      "Yao Lu",
+      "Zhijian Liu",
+      "Danny Yin",
+      "Yucheng Tang",
+      "Pengfei Guo",
+      "Ziyue Xu",
+      "Can Zhao",
+      "Yufan He",
+      "Greg Heinrich",
+      "Mingxin Zheng",
+      "Benjamin D. Simon",
+      "Stephanie Anne Harmon",
+      "Michael Zephyr",
+      "Marc Edgar",
+      "Stephen R. Aylward",
+      "Pavlo Molchanov",
+      "Yan Mee LAW",
+      "Baris Turkbey",
+      "Holger R. Roth",
+      "Daguang Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "On the Zero-shot Adversarial Robustness of Vision-Language Models: A Truly Zero-shot and Training-free Approach",
+    "authors": [
+      "Baoshun Tong",
+      "Hanjiang Lai",
+      "Yan Pan",
+      "Jian Yin"
+    ],
+    "url": null
+  },
+  {
+    "title": "PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos",
+    "authors": [
+      "Xun Jiang",
+      "Zhiyi Huang",
+      "Xing Xu",
+      "Jingkuan Song",
+      "Fumin Shen",
+      "Heng Tao Shen"
+    ],
+    "url": null
+  },
+  {
+    "title": "SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model",
+    "authors": [
+      "Chunlin Yu",
+      "Hanqing Wang",
+      "Ye Shi",
+      "Haoyang Luo",
+      "Sibei Yang",
+      "Jingyi Yu",
+      "Jingya Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving",
+    "authors": [
+      "Xuesong Chen",
+      "Linjiang Huang",
+      "Tao Ma",
+      "Rongyao Fang",
+      "Shaoshuai Shi",
+      "Hongsheng Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks",
+    "authors": [
+      "Peng Xie",
+      "Yequan Bie",
+      "Jianda Mao",
+      "Yangqiu Song",
+      "Yang Wang",
+      "Hao Chen",
+      "Kani Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "A Simple yet Effective Layout Token in Large Language Models for Document Understanding",
+    "authors": [
+      "Zhaoqing Zhu",
+      "Chuwei Luo",
+      "Zirui Shao",
+      "Feiyu Gao",
+      "Hangdi Xing",
+      "Qi Zheng",
+      "Ji Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Retrieval-Augmented Personalization for Multimodal Large Language Models",
+    "authors": [
+      "Haoran Hao",
+      "Jiaming Han",
+      "Changsheng Li",
+      "Yu-Feng Li",
+      "Xiangyu Yue"
+    ],
+    "url": null
+  },
+  {
+    "title": "Evaluating Vision-Language Models as Evaluators in Path Planning",
+    "authors": [
+      "Mohamed Aghzal",
+      "Xiang Yue",
+      "Erion Plaku",
+      "Ziyu Yao"
+    ],
+    "url": null
+  },
+  {
+    "title": "ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos",
+    "authors": [
+      "Tanveer Hannan",
+      "Md Mohaiminul Islam",
+      "Jindong Gu",
+      "Thomas Seidl",
+      "Gedas Bertasius"
+    ],
+    "url": null
+  },
+  {
+    "title": "CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation",
+    "authors": [
+      "Jiahao Li",
+      "Weijian Ma",
+      "Xueyang Li",
+      "Yunzhong Lou",
+      "Guichun Zhou",
+      "Xiangdong Zhou"
+    ],
+    "url": null
+  },
+  {
+    "title": "Unveiling Visual Perception in Language Models: A Attention Head Analysis Approach",
+    "authors": [
+      "Jing Bi",
+      "Lianggong Bruce Wen",
+      "Zhang Liu",
+      "JunJia Guo",
+      "Yunlong Tang",
+      "Bingjie Wang",
+      "Chenliang Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "NVILA: Efficient Frontier Visual Language Models",
+    "authors": [
+      "Zhijian Liu",
+      "Ligeng Zhu",
+      "Baifeng Shi",
+      "Zhuoyang Zhang",
+      "Yuming Lou",
+      "Shang Yang",
+      "Haocheng Xi",
+      "Shiyi Cao",
+      "Yuxian Gu",
+      "Dacheng Li",
+      "Xiuyu Li",
+      "Haotian Tang",
+      "Yunhao Fang",
+      "Yukang Chen",
+      "Cheng-Yu Hsieh",
+      "De-An Huang",
+      "An-Chieh Cheng",
+      "Jinyi Hu",
+      "Sifei Liu",
+      "Ranjay Krishna",
+      "Pavlo Molchanov",
+      "Jan Kautz",
+      "Danny Yin",
+      "Song Han",
+      "Yao Lu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis",
+    "authors": [
+      "Bingda Tang",
+      "Sayak Paul",
+      "Boyang Zheng",
+      "Saining Xie"
+    ],
+    "url": null
+  },
+  {
+    "title": "SLADE: Shielding against Dual Exploits in Large Vision-Language Models",
+    "authors": [
+      "Md Zarif Hossain",
+      "AHMED IMTEAJ"
+    ],
+    "url": null
+  },
+  {
+    "title": "LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models",
+    "authors": [
+      "Jian Liang",
+      "Wenke Huang",
+      "Guancheng Wan",
+      "Qu Yang",
+      "Mang Ye"
+    ],
+    "url": null
+  },
+  {
+    "title": "EgoLM: Multi-Modal Language Model of Egocentric Motions",
+    "authors": [
+      "Fangzhou Hong",
+      "Vladimir Guzov",
+      "Hyo Jin Kim",
+      "Yuting Ye",
+      "Richard Newcombe",
+      "Ziwei Liu",
+      "Lingni Ma"
+    ],
+    "url": null
+  },
+  {
+    "title": "Rethink Visual-language Pretraining for Deepfake Detection: Multi-modal Interpretable Forged Face Detection",
+    "authors": [
+      "Xiao Guo",
+      "Xiufeng Song",
+      "Yue Zhang",
+      "Xiaohong Liu",
+      "Xiaoming Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "HalLoc: Token-level Localization of Hallucinations for Vision Language Models",
+    "authors": [
+      "Eunkyu Park",
+      "Minyeong Kim",
+      "Gunhee Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Language-Guided Salient Object Ranking",
+    "authors": [
+      "Fang Liu",
+      "Yuhao Liu",
+      "Ke Xu",
+      "Shuquan Ye",
+      "Gerhard Hancke",
+      "Rynson W.H. Lau"
+    ],
+    "url": null
+  },
+  {
+    "title": "PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation",
+    "authors": [
+      "HsiaoYuan Hsu",
+      "Yuxin Peng"
+    ],
+    "url": null
+  },
+  {
+    "title": "OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counter Factual Reasoning",
+    "authors": [
+      "Shihao Wang",
+      "Zhiding Yu",
+      "Xiaohui Jiang",
+      "Shiyi Lan",
+      "Min Shi",
+      "Nadine Chang",
+      "Jan Kautz",
+      "Ying Li",
+      "Jose M. Alvarez"
+    ],
+    "url": null
+  },
+  {
+    "title": "g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks",
+    "authors": [
+      "Zihan Wang",
+      "Gim Hee Lee"
+    ],
+    "url": null
+  },
+  {
+    "title": "Distraction is All You Need for Multimodal Large Language Model Jailbreaking",
+    "authors": [
+      "Zuopeng Yang",
+      "Jiluan Fan",
+      "Anli Yan",
+      "Erdun Gao",
+      "Xin Lin",
+      "Tao Li",
+      "Kanghua Mo",
+      "Changyu Dong"
+    ],
+    "url": null
+  },
+  {
+    "title": "The Photographer's Eye: Teaching Multimodal Large Language Models to See, Think and Critique Like Photographers",
+    "authors": [
+      "Daiqing Qi",
+      "Handong Zhao",
+      "Jing Shi",
+      "Simon Jenni",
+      "Yifei Fan",
+      "Franck Dernoncourt",
+      "Scott Cohen",
+      "Sheng Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "NLPrompt: Noise-Label Prompt Learning for Vision-Language Models",
+    "authors": [
+      "Bikang Pan",
+      "Qun Li",
+      "Xiaoying Tang",
+      "Wei Huang",
+      "Zhen Fang",
+      "Feng Liu",
+      "Jingya Wang",
+      "Jingyi Yu",
+      "Ye Shi"
+    ],
+    "url": null
+  },
+  {
+    "title": "CoSpace: Benchmarking Continuous Space Perception Ability for Vision-Language Models",
+    "authors": [
+      "Yiqi Zhu",
+      "Ziyue Wang",
+      "Can Zhang",
+      "Peng Li",
+      "Yang Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves",
+    "authors": [
+      "Shihan Wu",
+      "Ji Zhang",
+      "Pengpeng Zeng",
+      "Lianli Gao",
+      "Jingkuan Song",
+      "Heng Tao Shen"
+    ],
+    "url": null
+  },
+  {
+    "title": "CountLLM: Towards Generalizable Repetitive Action Counting via Large Language Model",
+    "authors": [
+      "Ziyu Yao",
+      "Xuxin Cheng",
+      "Zhiqi Huang",
+      "Lei Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "SkySense-O: Towards Open-World Remote Sensing Interpretation with Vision-Centric Visual-Language Modeling",
+    "authors": [
+      "Qi Zhu",
+      "Jiangwei Lao",
+      "Deyi Ji",
+      "Junwei Luo",
+      "Kang Wu",
+      "Yingying Zhang",
+      "Lixiang Ru",
+      "Jian Wang",
+      "Jingdong Chen",
+      "Ming Yang",
+      "Dong Liu",
+      "Feng Zhao"
+    ],
+    "url": null
+  },
+  {
+    "title": "Words or Vision: Do Vision-Language Models Have Blind Faith in Text?",
+    "authors": [
+      "Ailin Deng",
+      "Tri Cao",
+      "Zhirui Chen",
+      "Bryan Hooi"
+    ],
+    "url": null
+  },
+  {
+    "title": "From Head to Tail: Towards Balanced Representation in Large\u00a0Vision-Language Models through Adaptive Data Calibration",
+    "authors": [
+      "Mingyang Song",
+      "Xiaoye Qu",
+      "Jiawei Zhou",
+      "Yu Cheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Vision-Language Model IP Protection via Prompt-based Learning",
+    "authors": [
+      "Lianyu Wang",
+      "Meng Wang",
+      "Huazhu Fu",
+      "Daoqiang Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model",
+    "authors": [
+      "Qianhan Feng",
+      "Wenshuo Li",
+      "Tong Lin",
+      "Xinghao Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Identifying and Mitigating Position Bias of Multi-image Vision-Language Models",
+    "authors": [
+      "Xinyu Tian",
+      "Shu Zou",
+      "Zhaoyuan Yang",
+      "Jing Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Dynamic Updates for Language Adaptation in Visual-Language Tracking",
+    "authors": [
+      "Xiaohai Li",
+      "Bineng Zhong",
+      "Qihua Liang",
+      "Zhiyi Mo",
+      "Jian Nong",
+      "Shuxiang Song"
+    ],
+    "url": null
+  }
+]

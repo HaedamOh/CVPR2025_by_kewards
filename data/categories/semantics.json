@@ -1,0 +1,66 @@
+[
+  {
+    "title": "SMILE: Infusing Spatial and Motion Semantics in Masked Video Learning",
+    "authors": [
+      "Fida Mohammad Thoker",
+      "Letian Jiang",
+      "Chen Zhao",
+      "Bernard Ghanem"
+    ],
+    "url": null
+  },
+  {
+    "title": "Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis",
+    "authors": [
+      "Muhammad Hamza Mughal",
+      "Rishabh Dabral",
+      "Merel CJ Scholman",
+      "Vera Demberg",
+      "Christian Theobalt"
+    ],
+    "url": null
+  },
+  {
+    "title": "Generalized Zero-Shot Classification via Semantics-Free Inter-Class Feature Generation",
+    "authors": [
+      "Libiao Chen",
+      "Dong Nie",
+      "Junjun Pan",
+      "Jing Yan",
+      "Zhenyu Tang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Chain of Semantics Programming in 3D Gaussian Splatting Representation for 3D Vision Grounding",
+    "authors": [
+      "Jiaxin Shi",
+      "Mingyue Xiang",
+      "Hao Sun",
+      "Yixuan Huang",
+      "Zhi Weng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics",
+    "authors": [
+      "Chen Liu",
+      "Liying Yang",
+      "Peike Li",
+      "Dadong Wang",
+      "Lincheng Li",
+      "Xin Yu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Explain in Diffusion: Explaining a Classifier with Diffusion Semantics",
+    "authors": [
+      "Tahira Kazimi",
+      "Ritika Allada",
+      "Pinar Yanardag"
+    ],
+    "url": null
+  }
+]

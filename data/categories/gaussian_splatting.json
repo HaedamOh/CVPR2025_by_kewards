@@ -1,0 +1,903 @@
+[
+  {
+    "title": "SGSST: Scaling Gaussian Splatting Style Transfer",
+    "authors": [
+      "Bruno Galerne",
+      "Jianling WANG",
+      "Lara Raad",
+      "Jean-michel Morel"
+    ],
+    "url": null
+  },
+  {
+    "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
+    "authors": [
+      "Wanhua Li",
+      "Renping Zhou",
+      "Jiawei Zhou",
+      "Yingwei Song",
+      "Johannes Herter",
+      "Minghan Qin",
+      "Gao Huang",
+      "Hanspeter Pfister"
+    ],
+    "url": null
+  },
+  {
+    "title": "OmniSplat: Taming Feed-Forward 3D Gaussian Splatting for Omnidirectional Images with Editable Capabilities",
+    "authors": [
+      "Suyoung Lee",
+      "JAEYOUNG CHUNG",
+      "Kihoon Kim",
+      "Jaeyoo Huh",
+      "Gunhee Lee",
+      "Minsoo Lee",
+      "Kyoung Mu Lee"
+    ],
+    "url": null
+  },
+  {
+    "title": "GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping",
+    "authors": [
+      "Jinfeng Liu",
+      "Lingtong Kong",
+      "Bo Li",
+      "Dan Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting",
+    "authors": [
+      "Runsong Zhu",
+      "Shi Qiu",
+      "ZHENGZHE LIU",
+      "Ka-Hei Hui",
+      "Qianyi Wu",
+      "Pheng-Ann Heng",
+      "Chi-Wing Fu"
+    ],
+    "url": null
+  },
+  {
+    "title": "SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting",
+    "authors": [
+      "Jiahui Zhang",
+      "Fangneng Zhan",
+      "Ling Shao",
+      "Shijian Lu"
+    ],
+    "url": null
+  },
+  {
+    "title": "EAP-GS: Efficient Augmentation of Pointcloud for 3D Gaussian Splatting in Few-shot Scene Reconstruction",
+    "authors": [
+      "Dongrui Dai",
+      "Yuxiang Xing"
+    ],
+    "url": null
+  },
+  {
+    "title": "Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh",
+    "authors": [
+      "Xiangjun Gao",
+      "Xiaoyu Li",
+      "Yiyu Zhuang",
+      "Qi Zhang",
+      "Wenbo Hu",
+      "Chaopeng Zhang",
+      "Yao Yao",
+      "Ying Shan",
+      "Long Quan"
+    ],
+    "url": null
+  },
+  {
+    "title": "CoCoGaussian: Leveraging Circle of Confusion for Gaussian Splatting from Defocused Images",
+    "authors": [
+      "Jungho Lee",
+      "Suhwan Cho",
+      "Taeoh Kim",
+      "Ho-Deok Jang",
+      "Minhyeok Lee",
+      "Geonho Cha",
+      "Dongyoon Wee",
+      "Dogyoon Lee",
+      "Sangyoun Lee"
+    ],
+    "url": null
+  },
+  {
+    "title": "Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs",
+    "authors": [
+      "Yingji Zhong",
+      "Zhihao Li",
+      "Dave Zhenyu Chen",
+      "Lanqing Hong",
+      "Dan Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "SpecTRe-GS: Modeling Highly Specular Surfaces with Reflected Nearby Objects by Tracing Rays in 3D Gaussian Splatting",
+    "authors": [
+      "Jiajun Tang",
+      "Fan Fei",
+      "Zhihao Li",
+      "Xiao Tang",
+      "Shiyong Liu",
+      "Youyu Chen",
+      "Binxiao Huang",
+      "Dave Zhenyu Chen",
+      "Xiaofei Wu",
+      "Boxin Shi"
+    ],
+    "url": null
+  },
+  {
+    "title": "DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds",
+    "authors": [
+      "Youyu Chen",
+      "Junjun Jiang",
+      "Kui Jiang",
+      "Xiao Tang",
+      "Zhihao Li",
+      "Xianming Liu",
+      "Yinyu Nie"
+    ],
+    "url": null
+  },
+  {
+    "title": "EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting",
+    "authors": [
+      "Dong In Lee",
+      "Hyeongcheol Park",
+      "Jiyoung Seo",
+      "Eunbyung Park",
+      "Hyunje Park",
+      "Ha Dam Baek",
+      "Shin sangheon",
+      "sangmin kim",
+      "Sangpil Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Splatter-360: Generalizable 360$^{\\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images",
+    "authors": [
+      "Zheng Chen",
+      "Chenming Wu",
+      "Zhelun Shen",
+      "Chen Zhao",
+      "Weicai Ye",
+      "Haocheng Feng",
+      "Errui Ding",
+      "Song-Hai Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting",
+    "authors": [
+      "Hengyu Liu",
+      "Yuehao Wang",
+      "Chenxin Li",
+      "Ruisi Cai",
+      "Kevin Wang",
+      "Wuyang Li",
+      "Pavlo Molchanov",
+      "Peihao Wang",
+      "Zhangyang Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views",
+    "authors": [
+      "Chong Bao",
+      "Xiyu Zhang",
+      "Zehao Yu",
+      "Jiale Shi",
+      "Guofeng Zhang",
+      "Songyou Peng",
+      "Zhaopeng Cui"
+    ],
+    "url": null
+  },
+  {
+    "title": "From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting",
+    "authors": [
+      "Zhiwei Huang",
+      "Hailin Yu",
+      "Yichun Shentu",
+      "Jin Yuan",
+      "Guofeng Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives",
+    "authors": [
+      "Alex Hanson",
+      "Allen Tu",
+      "Geng Lin",
+      "Vasu Singla",
+      "Matthias Zwicker",
+      "Tom Goldstein"
+    ],
+    "url": null
+  },
+  {
+    "title": "Improving Gaussian Splatting with Localized Points Management",
+    "authors": [
+      "Haosen Yang",
+      "Chenhao Zhang",
+      "Wenqing Wang",
+      "Marco Volino",
+      "Adrian Hilton",
+      "Li Zhang",
+      "Xiatian Zhu"
+    ],
+    "url": null
+  },
+  {
+    "title": "HyperGS: Hyperspectral 3D Gaussian Splatting",
+    "authors": [
+      "Christopher Thirgood",
+      "Oscar Mendez",
+      "Erin Chao Ling",
+      "Jonathan Storey",
+      "Simon Hadfield"
+    ],
+    "url": null
+  },
+  {
+    "title": "FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting",
+    "authors": [
+      "Fangyu Wu",
+      "Yuhao Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Hardware-Rasterized Ray-Based Gaussian Splatting",
+    "authors": [
+      "Samuel Rota Bul\u00f2",
+      "Lorenzo Porzi",
+      "Nemanja Bartolovic",
+      "Peter Kontschieder"
+    ],
+    "url": null
+  },
+  {
+    "title": "POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality",
+    "authors": [
+      "Joey Wilson",
+      "Marcelino M. de Almeida",
+      "Sachit Mahajan",
+      "Martin Labrie",
+      "Maani Ghaffari",
+      "Omid Ghasemalizadeh",
+      "Min Sun",
+      "Cheng-Hao Kuo",
+      "Arnab Sen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression",
+    "authors": [
+      "Zhenqi Dai",
+      "Ting Liu",
+      "Yanning Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration",
+    "authors": [
+      "JUNSEONG KIM",
+      "GeonU Kim",
+      "Kim Yu-Ji",
+      "Yu-Chiang Frank Wang",
+      "Jaesung Choe",
+      "Tae-Hyun Oh"
+    ],
+    "url": null
+  },
+  {
+    "title": "DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery",
+    "authors": [
+      "Jiadong Tang",
+      "Yu Gao",
+      "Dianyi Yang",
+      "Liqi Yan",
+      "Yufeng Yue",
+      "Yi Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "NTR-Gaussian: Nighttime Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics",
+    "authors": [
+      "Kun Yang",
+      "Yuxiang Liu",
+      "Zeyu Cui",
+      "Yu Liu",
+      "Maojun Zhang",
+      "Shen Yan",
+      "Qing Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "SplatFlow: Self-Supervised Dynamic Gaussian Splatting in Neural Motion Flow Field for Autonomous Driving",
+    "authors": [
+      "Su Sun",
+      "Cheng Zhao",
+      "Zhuoyang Sun",
+      "Yingjie Chen",
+      "Mei Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments",
+    "authors": [
+      "Jianhao Zheng",
+      "Zihan Zhu",
+      "Valentin Bieri",
+      "Marc Pollefeys",
+      "Songyou Peng",
+      "Iro Armeni"
+    ],
+    "url": null
+  },
+  {
+    "title": "RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting",
+    "authors": [
+      "Qiyu Dai",
+      "Xingyu Ni",
+      "Qianfan Shen",
+      "Mengyu Chu",
+      "Wenzheng Chen",
+      "Baoquan Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering",
+    "authors": [
+      "Yihao Wang",
+      "Marcus Klasson",
+      "Matias Turkulainen",
+      "Shuzhe Wang",
+      "Juho Kannala",
+      "Arno Solin"
+    ],
+    "url": null
+  },
+  {
+    "title": "DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation",
+    "authors": [
+      "Xiaoliang Ju",
+      "Hongsheng Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting",
+    "authors": [
+      "Qi Wu",
+      "Janick Martinez Esturo",
+      "Ashkan Mirzaei",
+      "Nicolas Mo\u00ebnne-Loccoz",
+      "\u017dan Goj\u010di\u010d"
+    ],
+    "url": null
+  },
+  {
+    "title": "IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera",
+    "authors": [
+      "Jian Huang",
+      "Chengrui Dong",
+      "Xuanhua Chen",
+      "Peidong Liu"
+    ],
+    "url": null
+  },
+  {
+    "title": "EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering",
+    "authors": [
+      "Toshiya Yura",
+      "Ashkan Mirzaei",
+      "Igor Gilitschenski"
+    ],
+    "url": null
+  },
+  {
+    "title": "SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis",
+    "authors": [
+      "Hyojun Go",
+      "byeongjun park",
+      "Jiho Jang",
+      "Jin-Young Kim",
+      "Soonwoo Kwon",
+      "Changick Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Gaussian Splatting for Efficient Satellite Image Photogrammetry",
+    "authors": [
+      "Luca Savant Aira",
+      "Gabriele Facciolo",
+      "Thibaud Ehret"
+    ],
+    "url": null
+  },
+  {
+    "title": "GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting",
+    "authors": [
+      "Shujuan Li",
+      "Yu-Shen Liu",
+      "Zhizhong Han"
+    ],
+    "url": null
+  },
+  {
+    "title": "USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting",
+    "authors": [
+      "Kang Chen",
+      "Jiyuan Zhang",
+      "Zecheng Hao",
+      "Yajing Zheng",
+      "Tiejun Huang",
+      "Zhaofei Yu"
+    ],
+    "url": null
+  },
+  {
+    "title": "SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting",
+    "authors": [
+      "Gyeongjin Kang",
+      "Jisang Yoo",
+      "Jihyeon Park",
+      "Seungtae Nam",
+      "Hyeonsoo Im",
+      "Shin sangheon",
+      "Sangpil Kim",
+      "Eunbyung Park"
+    ],
+    "url": null
+  },
+  {
+    "title": "Generative Sparse-View Gaussian Splatting",
+    "authors": [
+      "Hanyang Kong",
+      "Xingyi Yang",
+      "Xinchao Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting",
+    "authors": [
+      "Sangwoon Kwak",
+      "Joonsoo Kim",
+      "Jun Young Jeong",
+      "Won-Sik Cheong",
+      "Jihyong Oh",
+      "Munchurl Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Chain of Semantics Programming in 3D Gaussian Splatting Representation for 3D Vision Grounding",
+    "authors": [
+      "Jiaxin Shi",
+      "Mingyue Xiang",
+      "Hao Sun",
+      "Yixuan Huang",
+      "Zhi Weng"
+    ],
+    "url": null
+  },
+  {
+    "title": "MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models",
+    "authors": [
+      "Yifan Liu",
+      "Keyu Fan",
+      "Weihao Yu",
+      "Chenxin Li",
+      "Hao Lu",
+      "Yixuan Yuan"
+    ],
+    "url": null
+  },
+  {
+    "title": "SfM-Free 3D Gaussian Splatting via Hierarchical Training",
+    "authors": [
+      "Bo Ji",
+      "Angela Yao"
+    ],
+    "url": null
+  },
+  {
+    "title": "RoGSplat: Learning Robust Generalizable Human Gaussian Splatting from Sparse Multi-View Images",
+    "authors": [
+      "Junjin Xiao",
+      "Qing Zhang",
+      "Yongwei Nie",
+      "Lei Zhu",
+      "Wei-Shi Zheng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Steepest Descent Density Control for Compact 3D Gaussian Splatting",
+    "authors": [
+      "Peihao Wang",
+      "Yuehao Wang",
+      "Dilin Wang",
+      "Sreyas Mohan",
+      "Zhiwen Fan",
+      "Lemeng Wu",
+      "Ruisi Cai",
+      "Yu-Ying Yeh",
+      "Zhangyang Wang",
+      "Qiang Liu",
+      "Rakesh Ranjan"
+    ],
+    "url": null
+  },
+  {
+    "title": "HoGS: Unified Near and Far Object Reconstruction via Homogeneous Gaussian Splatting",
+    "authors": [
+      "Xinpeng Liu",
+      "Zeyi Huang",
+      "Fumio Okura",
+      "Yasuyuki Matsushita"
+    ],
+    "url": null
+  },
+  {
+    "title": "HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting",
+    "authors": [
+      "Jingyu Lin",
+      "Jiaqi Gu",
+      "Lubin Fan",
+      "Bojian Wu",
+      "Yujing Lou",
+      "Renjie Chen",
+      "Ligang Liu",
+      "Jieping Ye"
+    ],
+    "url": null
+  },
+  {
+    "title": "EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis",
+    "authors": [
+      "Sheng Miao",
+      "Jiaxin Huang",
+      "Dongfeng Bai",
+      "Xu Yan",
+      "Hongyu Zhou",
+      "Yue Wang",
+      "Bingbing Liu",
+      "Andreas Geiger",
+      "Yiyi Liao"
+    ],
+    "url": null
+  },
+  {
+    "title": "NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting",
+    "authors": [
+      "Yulong Zheng",
+      "Zicheng Jiang",
+      "Shengfeng He",
+      "Yandu Sun",
+      "Junyu Dong",
+      "Huaidong Zhang",
+      "Yong Du"
+    ],
+    "url": null
+  },
+  {
+    "title": "FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering",
+    "authors": [
+      "Guofeng Feng",
+      "Siyan Chen",
+      "Rong Fu",
+      "Zimu Liao",
+      "Yi Wang",
+      "Tao Liu",
+      "Boni Hu",
+      "Linning Xu",
+      "PeiZhilin",
+      "Hengjie Li",
+      "Xiuhong Li",
+      "Ninghui Sun",
+      "Xingcheng Zhang",
+      "Bo Dai"
+    ],
+    "url": null
+  },
+  {
+    "title": "SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs",
+    "authors": [
+      "Guibiao Liao",
+      "Qing Li",
+      "Zhenyu Bao",
+      "Guoping Qiu",
+      "KANGLIN LIU"
+    ],
+    "url": null
+  },
+  {
+    "title": "IndoorGS: Geometric Cues Guided Gaussian Splatting for Indoor Scene Reconstruction",
+    "authors": [
+      "Cong Ruan",
+      "Yuesong Wang",
+      "Bin Zhang",
+      "Lili Ju",
+      "Tao Guan"
+    ],
+    "url": null
+  },
+  {
+    "title": "UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping",
+    "authors": [
+      "Aashish Rai",
+      "Dilin Wang",
+      "Mihir Jain",
+      "Nikolaos Sarafianos",
+      "Kefan Chen",
+      "Srinath Sridhar",
+      "Aayush Prakash"
+    ],
+    "url": null
+  },
+  {
+    "title": "CG-IR: Curved Gaussian Splatting for Inverse Rendering",
+    "authors": [
+      "Hanxiao Sun",
+      "Yupeng Gao",
+      "Jin Xie",
+      "Jian Yang",
+      "Beibei Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes",
+    "authors": [
+      "Lihan Jiang",
+      "Kerui Ren",
+      "Mulin Yu",
+      "Linning Xu",
+      "Junting Dong",
+      "Tao Lu",
+      "Feng Zhao",
+      "Dahua Lin",
+      "Bo Dai"
+    ],
+    "url": null
+  },
+  {
+    "title": "IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing",
+    "authors": [
+      "Chun Gu",
+      "Xiaofei Wei",
+      "Zixuan Zeng",
+      "Yuxuan Yao",
+      "Li Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Gaussian Splatting Feature Fields for (Privacy-Preserving) Visual Localization",
+    "authors": [
+      "Maxime Pietrantoni",
+      "Gabriela Csurka",
+      "Torsten Sattler"
+    ],
+    "url": null
+  },
+  {
+    "title": "Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views",
+    "authors": [
+      "Jiang Wu",
+      "Rui Li",
+      "Yu Zhu",
+      "Rong Guo",
+      "Jinqiu Sun",
+      "Yanning Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting",
+    "authors": [
+      "Cheng Zhang",
+      "Haofei Xu",
+      "Qianyi Wu",
+      "Camilo Cruz Gambardella",
+      "Dinh Phung",
+      "Jianfei Cai"
+    ],
+    "url": null
+  },
+  {
+    "title": "LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors",
+    "authors": [
+      "Han Zhou",
+      "Wei Dong",
+      "Jun Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving",
+    "authors": [
+      "Georg Hess",
+      "Carl Lindstr\u00f6m",
+      "Maryam Fatemi",
+      "Christoffer Petersson",
+      "Lennart Svensson"
+    ],
+    "url": null
+  },
+  {
+    "title": "UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting",
+    "authors": [
+      "Ziyi Wang",
+      "Yanran Zhang",
+      "Jie Zhou",
+      "Jiwen Lu"
+    ],
+    "url": null
+  },
+  {
+    "title": "DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting",
+    "authors": [
+      "Liao Shen",
+      "Tianqi Liu",
+      "Huiqiang Sun",
+      "Jiaqi Li",
+      "Zhiguo Cao",
+      "Wei Li",
+      "Chen Change Loy"
+    ],
+    "url": null
+  },
+  {
+    "title": "PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting",
+    "authors": [
+      "Alex Hanson",
+      "Allen Tu",
+      "Vasu Singla",
+      "Bethmage Mayuka Jayawardhana",
+      "Matthias Zwicker",
+      "Tom Goldstein"
+    ],
+    "url": null
+  },
+  {
+    "title": "DepthSplat: Connecting Gaussian Splatting and Depth",
+    "authors": [
+      "Haofei Xu",
+      "Songyou Peng",
+      "Fangjinhua Wang",
+      "Hermann Blum",
+      "Daniel Barath",
+      "Andreas Geiger",
+      "Marc Pollefeys"
+    ],
+    "url": null
+  },
+  {
+    "title": "Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting",
+    "authors": [
+      "Jinbo Yan",
+      "Rui Peng",
+      "Zhiyan Wang",
+      "Luyang Tang",
+      "Jiayu Yang",
+      "Jie Liang",
+      "Jiahao Wu",
+      "Ronggang Wang"
+    ],
+    "url": null
+  },
+  {
+    "title": "iG-6DoF: Model-free 6DoF Pose Estimation for Unseen Object via Iterative 3D Gaussian Splatting",
+    "authors": [
+      "Tuo Cao",
+      "Fei LUO",
+      "Jiongming Qin",
+      "Yu Jiang",
+      "Yusen Wang",
+      "Chunxia Xiao"
+    ],
+    "url": null
+  },
+  {
+    "title": "ArticulatedGS: Self-supervised Digital Twin Modeling of Articulated Objects using 3D Gaussian Splatting",
+    "authors": [
+      "Guo Junfu",
+      "Yu Xin",
+      "Gaoyi Liu",
+      "Kai Xu",
+      "Ligang Liu",
+      "Ruizhen Hu"
+    ],
+    "url": null
+  },
+  {
+    "title": "3D-GSW: 3D Gaussian Splatting for Robust Watermarking",
+    "authors": [
+      "Youngdong Jang",
+      "Hyunje Park",
+      "Feng Yang",
+      "Heeju Ko",
+      "Euijin Choo",
+      "Sangpil Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction",
+    "authors": [
+      "Ziyue Zhu",
+      "Shenlong Wang",
+      "Jin Xie",
+      "Jiang-Jiang Liu",
+      "Jingdong Wang",
+      "Jian Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Post-Capture Refocusing, Defocus Rendering and Blur Removal",
+    "authors": [
+      "Yujie Wang",
+      "Praneeth Chakravarthula",
+      "Baoquan Chen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting",
+    "authors": [
+      "Hanxi Liu",
+      "Yifang Men",
+      "Zhouhui Lian"
+    ],
+    "url": null
+  },
+  {
+    "title": "Ref-GS: Directional Factorization for 2D Gaussian Splatting",
+    "authors": [
+      "Youjia Zhang",
+      "Anpei Chen",
+      "Yumin Wan",
+      "Zikai Song",
+      "Junqing Yu",
+      "Yawei Luo",
+      "Wei Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting",
+    "authors": [
+      "Yiren Lu",
+      "Yunlai Zhou",
+      "Disheng Liu",
+      "tuo liang",
+      "Yu Yin"
+    ],
+    "url": null
+  }
+]

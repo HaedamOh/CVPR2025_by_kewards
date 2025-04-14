@@ -1,0 +1,337 @@
+[
+  {
+    "title": "MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction",
+    "authors": [
+      "Wenyuan Zhang",
+      "Yixiao Yang",
+      "Han Huang",
+      "Liang Han",
+      "Kanle Shi",
+      "Yu-Shen Liu",
+      "Zhizhong Han"
+    ],
+    "url": null
+  },
+  {
+    "title": "InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception",
+    "authors": [
+      "Haijie Li",
+      "Yanmin Wu",
+      "Jiarui Meng",
+      "Qiankun Gao",
+      "Zhiyao Zhang",
+      "Ronggang Wang",
+      "Jian Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Instance-wise Supervision-level Optimization in Active Learning",
+    "authors": [
+      "Shinnosuke Matsuo",
+      "Riku Togashi",
+      "Ryoma Bise",
+      "Seiichi Uchida",
+      "Masahiro Nomura"
+    ],
+    "url": null
+  },
+  {
+    "title": "Relation3D : Enhancing Relation Modeling for Point Cloud Instance Segmentation",
+    "authors": [
+      "Edward LOO",
+      "Jiacheng Deng"
+    ],
+    "url": null
+  },
+  {
+    "title": "Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning",
+    "authors": [
+      "Jiuyang Dong",
+      "Junjun Jiang",
+      "Kui Jiang",
+      "Jiahan Li",
+      "Yongbing Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety",
+    "authors": [
+      "Andrei Dumitriu",
+      "Florin Tatui",
+      "Florin Miron",
+      "Aakash Ralhan",
+      "Radu Tudor Ionescu",
+      "Radu Timofte"
+    ],
+    "url": null
+  },
+  {
+    "title": "VCR: Learning Appearance-Invariant Representation for Open-World Instance Segmentation",
+    "authors": [
+      "Chang-Bin Zhang",
+      "Jinhong Ni",
+      "Yujie Zhong",
+      "Kai Han"
+    ],
+    "url": null
+  },
+  {
+    "title": "SAM2Object: Consolidating View Consistency via SAM2 for Zero-Shot 3D Instance Segmentation",
+    "authors": [
+      "Jihuai Zhao",
+      "Junbao Zhuo",
+      "Jiansheng Chen",
+      "Huimin Ma"
+    ],
+    "url": null
+  },
+  {
+    "title": "WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels",
+    "authors": [
+      "Hyeokjun Kweon",
+      "Kuk-Jin Yoon"
+    ],
+    "url": null
+  },
+  {
+    "title": "InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption",
+    "authors": [
+      "Tiehan Fan",
+      "Kepan Nan",
+      "Rui Xie",
+      "Penghao Zhou",
+      "Zhenheng Yang",
+      "Chaoyou Fu",
+      "Xiang Li",
+      "Jian Yang",
+      "Ying Tai"
+    ],
+    "url": null
+  },
+  {
+    "title": "Insightful Instance Features for 3D Instance Segmentation",
+    "authors": [
+      "Wonseok Roh",
+      "Hwanhee Jung",
+      "Giljoo Nam",
+      "Dong In Lee",
+      "Hyeongcheol Park",
+      "Sang Ho Yoon",
+      "Jungseock Joo",
+      "Sangpil Kim"
+    ],
+    "url": null
+  },
+  {
+    "title": "Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances",
+    "authors": [
+      "Yi Yu",
+      "Botao Ren",
+      "Peiyuan Zhang",
+      "Mingxin Liu",
+      "Junwei Luo",
+      "Shaofeng Zhang",
+      "Feipeng Da",
+      "Junchi Yan",
+      "Xue Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation",
+    "authors": [
+      "Fangyun Wei",
+      "Jinjing Zhao",
+      "Kun Yan",
+      "Chang Xu"
+    ],
+    "url": null
+  },
+  {
+    "title": "Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking",
+    "authors": [
+      "Phuc Nguyen",
+      "Minh Luu",
+      "Anh Tran",
+      "Cuong Pham",
+      "Khoi Nguyen"
+    ],
+    "url": null
+  },
+  {
+    "title": "Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning",
+    "authors": [
+      "Hanxun Yu",
+      "Wentong Li",
+      "Song Wang",
+      "Junbo Chen",
+      "Jianke Zhu"
+    ],
+    "url": null
+  },
+  {
+    "title": "VIRES: Video Instance Repainting with Sketch and Text Guidance",
+    "authors": [
+      "Shuchen Weng",
+      "Haojie Zheng",
+      "Peixuan Zhang",
+      "Yuchen Hong",
+      "Han Jiang",
+      "Si Li",
+      "Boxin Shi"
+    ],
+    "url": null
+  },
+  {
+    "title": "IM-Zero: Instance-level Motion Controllable Video Generation in a Zero-shot Manner",
+    "authors": [
+      "Yuyang Huang",
+      "Yabo Chen",
+      "Li Ding",
+      "Xiaopeng Zhang",
+      "Wenrui Dai",
+      "Junni Zou",
+      "Hongkai Xiong",
+      "Qi Tian"
+    ],
+    "url": null
+  },
+  {
+    "title": "Solving Instance Detection from an Open-World Perspective",
+    "authors": [
+      "Qianqian Shen",
+      "Yunhan Zhao",
+      "Nahyun Kwon",
+      "Jeeeun Kim",
+      "Yanan Li",
+      "Shu Kong"
+    ],
+    "url": null
+  },
+  {
+    "title": "ROICtrl: Boosting Instance Control for Visual Generation",
+    "authors": [
+      "Yuchao Gu",
+      "Yipin Zhou",
+      "Yunfan Ye",
+      "Yixin Nie",
+      "Licheng Yu",
+      "Pingchuan Ma",
+      "Kevin Qinghong Lin",
+      "Mike Zheng Shou"
+    ],
+    "url": null
+  },
+  {
+    "title": "Forming Auxiliary High-confident Instance-level Loss to Promote Learning from Label Proportions",
+    "authors": [
+      "Tianhao Ma",
+      "Han Chen",
+      "Juncheng Hu",
+      "Yungang Zhu",
+      "Ximing Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Foveated Instance Segmentation",
+    "authors": [
+      "Hongyi Zeng",
+      "Wenxuan Liu",
+      "Tianhua Xia",
+      "Jinhui Chen",
+      "Ziyun Li",
+      "Sai Qian Zhang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Audio-Visual Instance Segmentation",
+    "authors": [
+      "Ruohao Guo",
+      "Xianghua Ying",
+      "Yaru Chen",
+      "Dantong Niu",
+      "Guangyao Li",
+      "Liao Qu",
+      "Yanyu Qi",
+      "Jinxing Zhou",
+      "Bowei Xing",
+      "Wenzhen Yue",
+      "Ji Shi",
+      "Qixun Wang",
+      "Peiliang Zhang",
+      "Buwen Liang"
+    ],
+    "url": null
+  },
+  {
+    "title": "Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging",
+    "authors": [
+      "Xianrui Li",
+      "Yufei Cui",
+      "Jun Li",
+      "Antoni B. Chan"
+    ],
+    "url": null
+  },
+  {
+    "title": "Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation",
+    "authors": [
+      "Hongmei Yin",
+      "Tingliang Feng",
+      "Fan Lyu",
+      "Fanhua Shang",
+      "Hongying Liu",
+      "Wei Feng",
+      "Liang Wan"
+    ],
+    "url": null
+  },
+  {
+    "title": "RayFlow: Instance-Aware Diffusion Acceleration via Adaptive Flow Trajectories",
+    "authors": [
+      "Huiyang Shao",
+      "Xin Xia",
+      "Yuhong Yang",
+      "Ren Yuxi",
+      "XING WANG",
+      "Xuefeng Xiao"
+    ],
+    "url": null
+  },
+  {
+    "title": "PolarNeXt: Rethink Instance Segmentation with Polar Representation",
+    "authors": [
+      "Jiacheng Sun",
+      "Xinghong Zhou",
+      "Yiqiang Wu",
+      "Bin Zhu",
+      "Jiaxuan Lu",
+      "Yu Qin",
+      "Xiaomao Li"
+    ],
+    "url": null
+  },
+  {
+    "title": "Sketchy Bounding-box Supervision for 3D Instance Segmentation",
+    "authors": [
+      "qian deng",
+      "Le Hui",
+      "Jin Xie",
+      "Jian Yang"
+    ],
+    "url": null
+  },
+  {
+    "title": "ViKIENet: Towards Efficient 3D Object Detection with Virtual Key Instance Enhanced Network",
+    "authors": [
+      "Zhuochen Yu",
+      "Bijie Qiu",
+      "Andy W. H. Khong"
+    ],
+    "url": null
+  }
+]
